@@ -1,0 +1,843 @@
+imdb_id,bechdel_rating,bechdel_dubious,bechdel_pass,movie_title,title_year,genres,imdb_score,director_name,gross,content_rating,budget,actor_1_name,plot_keywords
+1179904,3.0,1.0,True,Paranormal Activity,2007,Horror,6.3,Oren Peli,107917283.0,R,15000.0,Micah Sloat,dark force|entity|evil force|found footage|paranormal phenomenon
+1032846,3.0,0.0,True,"4 Months, 3 Weeks and 2 Days",2007,Drama,7.9,Cristian Mungiu,1185783.0,Not Rated,590000.0,Anamaria Marinca,female rear nudity|friend|hotel|rainy night|towel
+1033643,3.0,,True,What Happens in Vegas,2008,Comedy|Romance,6.1,Tom Vaughan,80276912.0,PG-13,35000000.0,Treat Williams,casino|father son relationship|jackpot|judge|wedding
+1013753,1.0,,False,Milk,2008,Biography|Drama|History,7.6,Gus Van Sant,31838002.0,R,20000000.0,James Franco,california|gay|gay activist|gay pickup|gay rights
+1010048,1.0,,False,Slumdog Millionaire,2008,Drama|Romance,8.0,Danny Boyle,141319195.0,R,15000000.0,Anil Kapoor,cheating|falling from height|murder|non professional cast|slum
+1125849,1.0,,False,The Wrestler,2008,Drama|Sport,7.9,Darren Aronofsky,26236603.0,R,6000000.0,Mark Margolis,heart attack|stripper|supermarket|wrestler|wrestling
+1068680,1.0,,False,Yes Man,2008,Comedy|Romance,6.8,Peyton Reed,97680195.0,PG-13,70000000.0,Bradley Cooper,best friend|dvd|girlfriend|loan|self help
+1059786,1.0,1.0,False,Eagle Eye,2008,Action|Mystery|Thriller,6.6,D.J. Caruso,101111837.0,PG-13,80000000.0,Rosario Dawson,audio surveillance|death|pentagon|technology|twin brother
+1054588,1.0,0.0,False,Flash of Genius,2008,Biography|Drama,7.0,Marc Abraham,4234040.0,PG-13,20000000.0,Dylan Authors,flash of genius|genius|intellectual property|professor|university
+1099212,3.0,0.0,True,Twilight,2008,Drama|Fantasy|Romance,5.2,Catherine Hardwicke,191449475.0,PG-13,37000000.0,Kristen Stewart,blood|high school|love|school|vampire
+1099212,3.0,0.0,True,Twilight,2008,Drama|Fantasy|Romance,5.2,Catherine Hardwicke,191449475.0,PG-13,37000000.0,Kristen Stewart,blood|high school|love|school|vampire
+1205489,2.0,0.0,False,Gran Torino,2008,Drama,8.2,Clint Eastwood,148085755.0,R,33000000.0,Clint Eastwood,gang|gang rape|hmong|teenager|widower
+1082868,3.0,0.0,True,Quarantine,2008,Horror|Sci-Fi|Thriller,6.0,John Erick Dowdle,31691811.0,R,12000000.0,Andrew Fiscella,apartment building|found footage|television|trapped|virus
+1060277,3.0,0.0,True,Cloverfield,2008,Action|Adventure|Horror|Sci-Fi,7.0,Matt Reeves,80034302.0,PG-13,25000000.0,Mike Vogel,brooklyn new york city|found footage|night vision|statue of liberty new york city|subway tunnel
+1226681,0.0,0.0,False,Pontypool,2008,Fantasy|Horror,6.7,Bruce McDonald,3478.0,Not Rated,1500000.0,Stephen McHattie,blood splatter|talk radio|virus|vomiting blood|zombie apocalypse
+1023481,3.0,0.0,True,Step Up 2: The Streets,2008,Drama|Music|Musical|Romance,6.2,Jon M. Chu,58006147.0,PG-13,23000000.0,Cassie Ventura,audition|dance|kissing in the rain|student|subway
+1046997,2.0,0.0,False,Miracle at St. Anna,2008,Action|Crime|Drama|Thriller|War,6.0,Spike Lee,7916887.0,R,45000000.0,Joseph Gordon-Levitt,boy|german soldier|partisan|trapped|village
+1032755,1.0,0.0,False,RocknRolla,2008,Action|Crime|Thriller,7.3,Guy Ritchie,5694401.0,R,18000000.0,Tom Hardy,accountant|finger gun|homosexual|killed in an elevator|painting
+1129423,2.0,0.0,False,Fireproof,2008,Drama|Romance,6.5,Alex Kendrick,33451479.0,PG,500000.0,Kirk Cameron,christian film|dare|firefighter|internet pornography|marriage
+1152850,3.0,0.0,True,Wendy and Lucy,2008,Drama,7.1,Kelly Reichardt,856942.0,R,200000.0,John Robinson,car|dog|flip phone|rape threat|vulnerable
+1185616,0.0,0.0,False,Waltz with Bashir,2008,Animation|Biography|Documentary|Drama|History|War,8.0,Ari Folman,2283276.0,R,1500000.0,Ari Folman,bar|dog|interview|lebanon|nightmare
+1104733,3.0,0.0,True,Hamlet 2,2008,Comedy|Music,6.4,Andrew Fleming,4881867.0,R,9000000.0,Steve Coogan,gang banger|sequel|shakespeare's hamlet|student|time machine
+1132626,3.0,0.0,True,Saw V,2008,Horror|Mystery,5.8,David Hackl,56729973.0,R,10800000.0,Julie Benz,blood splatter|jigsaw|nazi|serial killer|swastika tattoo
+1073498,1.0,0.0,False,Meet the Spartans,2008,Comedy,2.7,Jason Friedberg,38232624.0,PG-13,30000000.0,Carmen Electra,king|persian|spartan|training|xerxes
+1023111,2.0,1.0,False,Never Back Down,2008,Action|Drama|Sport,6.6,Jeff Wadlow,24848292.0,PG-13,20000000.0,Djimon Hounsou,club|fight|fighting|high school|mixed martial arts
+1049413,1.0,,False,Up,2009,Adventure|Animation|Comedy|Family,8.3,Pete Docter,292979556.0,PG,175000000.0,John Ratzenberger,balloon|house|promise|retirement|skeleton
+1119646,1.0,,False,The Hangover,2009,Comedy,7.8,Todd Phillips,277313371.0,R,35000000.0,Bradley Cooper,drunkenness|female nudity|hangover|hedonism|morning after
+1152836,1.0,,False,Public Enemies,2009,Biography|Crime|Drama|History|Romance,7.0,Michael Mann,97030725.0,R,100000000.0,Johnny Depp,1930s|bank|celebrity criminal|fbi|public enemy number one
+1201167,1.0,0.0,False,Funny People,2009,Comedy|Drama,6.4,Judd Apatow,51814190.0,R,75000000.0,Adam Sandler,breasts|comedian|craigslist|infidelity|stand up comedian
+1135503,3.0,0.0,True,Julie & Julia,2009,Biography|Drama|Romance,7.0,Nora Ephron,94125426.0,PG-13,40000000.0,Meryl Streep,american|blog|book|cook|cooking
+1022603,1.0,0.0,False,500 Days of Summer,2009,Comedy|Drama|Romance,7.7,Marc Webb,32391374.0,PG-13,7500000.0,Joseph Gordon-Levitt,friend|greeting card|office|summer|true love
+1046173,1.0,0.0,False,G.I. Joe: The Rise of Cobra,2009,Action|Adventure|Sci-Fi|Thriller,5.8,Stephen Sommers,150167630.0,PG-13,175000000.0,Joseph Gordon-Levitt,cobra|gi joe|snake|train|warhead
+1111422,0.0,0.0,False,The Taking of Pelham 1 2 3,2009,Action|Crime|Thriller,6.4,Tony Scott,65452312.0,R,100000000.0,Denzel Washington,hijack|hostage|ransom|subway|train
+1080016,1.0,0.0,False,Ice Age: Dawn of the Dinosaurs,2009,Action|Adventure|Animation|Comedy|Family,7.0,Carlos Saldanha,196573705.0,PG,90000000.0,Denis Leary,egg|lost world|rescue|squirrel|weasel
+1136608,1.0,0.0,False,District 9,2009,Action|Sci-Fi|Thriller,8.0,Neill Blomkamp,115646235.0,R,30000000.0,Sharlto Copley,alien|ghetto|prawn|refugee|refugee camp
+1055369,3.0,0.0,True,Transformers: Revenge of the Fallen,2009,Action|Adventure|Sci-Fi,6.0,Michael Bay,402076689.0,PG-13,200000000.0,Glenn Morshower,autobot|decepticon|machine|sun|symbol
+1178663,3.0,1.0,True,Whatever Works,2009,Comedy|Romance,7.2,Woody Allen,5306447.0,PG-13,15000000.0,Larry David,atheist|limp|quantum mechanics|religion|runaway
+1135487,2.0,0.0,False,Duplicity,2009,Comedy|Crime|Romance|Thriller,6.2,Tony Gilroy,40559930.0,PG-13,60000000.0,Julia Roberts,ceo|dubai|product|rivalry|spy
+1155056,2.0,0.0,False,"I Love You, Man",2009,Comedy|Romance,7.1,John Hamburg,71347010.0,R,40000000.0,J.K. Simmons,bromance|friend|gay brother|homosexual subtext|wedding
+1172233,3.0,0.0,True,Whip It,2009,Drama|Sport,6.9,Drew Barrymore,13034417.0,PG-13,15000000.0,Daniel Stern,beauty pageant|friend|pageant|roller derby|texas
+1156398,3.0,0.0,True,Zombieland,2009,Adventure|Comedy|Horror|Sci-Fi,7.7,Ruben Fleischer,75590286.0,R,23600000.0,Emma Stone,amusement park|on the road|zombie|zombie apocalypse|zombie spoof
+1182345,1.0,1.0,False,Moon,2009,Drama|Mystery|Sci-Fi,7.9,Duncan Jones,5009677.0,R,5000000.0,Kevin Spacey,computer|contract|earth|moon|solitude
+1234548,0.0,0.0,False,The Men Who Stare at Goats,2009,Comedy|War,6.2,Grant Heslov,32416109.0,R,25000000.0,Kevin Spacey,first person narration|general|hampster|reference to loch ness monster|reporter
+1058017,2.0,0.0,False,The Invention of Lying,2009,Comedy|Fantasy|Romance,6.4,Ricky Gervais,18439082.0,PG-13,18500000.0,Jennifer Garner,genetics|heaven|lie|screenwriter|truth
+1186367,1.0,0.0,False,Ninja Assassin,2009,Action|Crime|Thriller,6.4,James McTeigue,38105077.0,R,40000000.0,Shô Kosugi,critically bashed|kung fu|martial artist|martial arts|ninja
+1193138,2.0,0.0,False,Up in the Air,2009,Drama|Romance,7.4,Jason Reitman,83813460.0,R,25000000.0,J.K. Simmons,airport|business trip|downsizing|on the road|travel
+1172994,3.0,0.0,True,The House of the Devil,2009,Horror,6.4,Ti West,100659.0,R,900000.0,Lena Dunham,cult film|eclipse|haunted house|lunar eclipse|secret
+1131734,3.0,0.0,True,Jennifer's Body,2009,Comedy|Fantasy|Horror,5.1,Karyn Kusama,16204793.0,R,16000000.0,J.K. Simmons,cannibalism|cheerleader|condom|hook for hand|satanic ritual
+1127180,3.0,0.0,True,Drag Me to Hell,2009,Horror|Thriller,6.6,Sam Raimi,42057340.0,PG-13,30000000.0,Bojana Novakovic,evil|fight|hell|psychic|psychologist
+1186830,1.0,0.0,False,Agora,2009,Adventure|Drama|History|Romance,7.2,Alejandro Amenábar,617840.0,R,70000000.0,Max Minghella,christian|love|philosophy|prefect|slave
+1054606,1.0,0.0,False,The Imaginarium of Doctor Parnassus,2009,Adventure|Fantasy|Mystery,6.8,Terry Gilliam,7689458.0,PG-13,40000000.0,Andrew Garfield,birthday|bridge|midget|rescue|sideshow
+1315981,1.0,0.0,False,A Single Man,2009,Drama|Romance,7.6,Tom Ford,9166863.0,R,7000000.0,Colin Firth,car accident|male full back nudity|practicing a suicide|public nudity|suicide contemplation
+1045772,1.0,0.0,False,I Love You Phillip Morris,2009,Biography|Comedy|Crime|Drama|Romance,6.6,Glenn Ficarra,2035566.0,R,13000000.0,Dameon Clarke,character name in title|con artist|fraud|gay|prison break
+1230414,3.0,0.0,True,It's Complicated,2009,Comedy|Drama|Romance,6.6,Nancy Meyers,112703470.0,R,85000000.0,Meryl Streep,affair|divorce|graduation|vomiting|watching television
+1259571,3.0,0.0,True,The Twilight Saga: New Moon,2009,Adventure|Drama|Fantasy|Romance,4.6,Chris Weitz,296623634.0,PG-13,50000000.0,Robert Pattinson,forks washington|protecting a woman|title same as book|vampire|werewolf
+1078588,3.0,0.0,True,My Sister's Keeper,2009,Drama,7.4,Nick Cassavetes,49185998.0,PG-13,30000000.0,Jason Patric,hospital|leukemia|oncology|sick child|terminal illness
+1176740,3.0,0.0,True,Away We Go,2009,Comedy|Drama|Romance,7.1,Sam Mendes,9430988.0,R,17000000.0,Catherine O'Hara,baby|children|friend|love|road trip
+1174732,3.0,0.0,True,An Education,2009,Drama,7.3,Lone Scherfig,12574715.0,PG-13,4500000.0,Dominic Cooper,1960s|age difference|france|loss of virginity|oxford
+1197624,3.0,0.0,True,Law Abiding Citizen,2009,Crime|Drama|Thriller,7.4,F. Gary Gray,73343413.0,R,50000000.0,Gerard Butler,attorney|deal|district attorney|investigation|justice
+1017460,3.0,0.0,True,Splice,2009,Drama|Horror|Sci-Fi,5.8,Vincenzo Natali,16999046.0,R,26000000.0,Sarah Polley,dna|experiment|genetics|interspecies sex|scientist
+1210042,1.0,0.0,False,Brooklyn's Finest,2009,Crime|Drama|Thriller,6.7,Antoine Fuqua,27154426.0,R,17000000.0,Don Cheadle,catholic|corrupt cop|new york city|police detective|police officer killed
+1130080,1.0,0.0,False,The Informant!,2009,Comedy|Crime|Drama|Thriller,6.5,Steven Soderbergh,33313582.0,R,21000000.0,Matt Damon,compulsive liar|fbi|informant|investigation|spy
+1057500,1.0,0.0,False,Invictus,2009,Biography|Drama|History|Sport,7.4,Clint Eastwood,37479778.0,PG-13,60000000.0,Matt Damon,apartheid|nation|nelson mandela|president|rugby
+1352824,3.0,0.0,True,Chloe,2009,Drama|Mystery|Romance|Thriller,6.3,Atom Egoyan,3074838.0,R,11000000.0,Liam Neeson,bare chested boy|doctor|escort|infidelity|prostitute
+1041829,2.0,0.0,False,The Proposal,2009,Comedy|Drama|Romance,6.7,Anne Fletcher,163947053.0,PG-13,40000000.0,Ryan Reynolds,alaska|deportation|father son relationship|male objectification|sitka alaska
+1305806,1.0,0.0,False,The Secret in Their Eyes,2009,Drama|Mystery|Thriller,8.2,Juan José Campanella,20167424.0,R,2000000.0,Ricardo Darín,investigation|justice|murder|suspect|tension
+1121977,3.0,0.0,True,Mother and Child,2009,Drama|Romance,7.2,Rodrigo García,1110286.0,R,4825000.0,Naomi Watts,adoption|baby|girl|lawyer|sex
+1278340,2.0,0.0,False,Dead Snow,2009,Comedy|Horror,6.4,Tommy Wirkola,41709.0,Not Rated,800000.0,Bjørn Sundquist,medical student|nazi|snow|snowmobile|zombie
+1190080,1.0,0.0,False,2012,2009,Action|Adventure|Sci-Fi,5.8,Roland Emmerich,166112167.0,PG-13,200000000.0,Oliver Platt,ark|catastrophe|geologist|president|writer
+1134854,1.0,0.0,False,Survival of the Dead,2009,Horror,5.0,George A. Romero,101055.0,R,4000000.0,Julian Richings,delaware|feud|island|undead|zombie
+1139668,3.0,0.0,True,The Unborn,2009,Drama|Fantasy|Horror|Mystery|Thriller,4.8,David S. Goyer,42638165.0,PG-13,16000000.0,Gary Oldman,babysitting|experiment|nightmare|possession|twin
+1139668,3.0,0.0,True,The Unborn,2009,Drama|Fantasy|Horror|Mystery|Thriller,4.8,David S. Goyer,42638165.0,PG-13,16000000.0,Gary Oldman,babysitting|experiment|nightmare|possession|twin
+1142988,2.0,0.0,False,The Ugly Truth,2009,Comedy|Romance,6.5,Robert Luketic,88915214.0,R,38000000.0,Gerard Butler,call in|chick flick|date|hot air balloon|show producer
+1149361,3.0,1.0,True,Micmacs,2009,Action|Comedy|Crime,7.2,Jean-Pierre Jeunet,1260917.0,R,27000000.0,Omar Sy,bullet|contortionist|gag humor|human cannonball|revenge
+1035736,3.0,0.0,True,Coco Before Chanel,2009,Biography|Drama,6.7,Anne Fontaine,6109075.0,PG-13,19430000.0,Alessandro Nivola,baron|fashion|hat|nickname|orphanage
+1303828,1.0,0.0,False,Defendor,2009,Comedy|Crime|Drama,6.8,Peter Stebbings,37606.0,R,3500000.0,Michael Kelly,gun running|organized crime|pimp|superhero|vigilante
+1019452,2.0,0.0,False,A Serious Man,2009,Comedy|Drama,7.0,Ethan Coen,9190525.0,R,7000000.0,Michael Stuhlbarg,bar mitzvah|jewish|marital breakup|nose job|rabbi
+1247662,3.0,0.0,True,The Good Guy,2009,Comedy|Romance,5.9,Julio DePietro,100503.0,R,8000000.0,Adrian Martinez,book club|cheating boyfriend|job promotion|manhattan new york city|new york city
+1235796,3.0,0.0,True,Ondine,2009,Drama|Mystery|Romance,6.8,Neil Jordan,548934.0,PG-13,12000000.0,Tony Curran,celtic mythology|cottage|fisherman|irish|selkie
+1194263,1.0,0.0,False,Get Low,2009,Drama|Mystery,7.1,Aaron Schneider,9176553.0,PG-13,7500000.0,Bill Murray,funeral|funeral home|hermit|party|secret
+1095217,3.0,0.0,True,Bad Lieutenant: Port of Call New Orleans,2009,Crime|Drama,6.7,Werner Herzog,1697956.0,R,20000000.0,Nicolas Cage,drugs|flood|hallucination|lieutenant|murder investigation
+1179891,2.0,1.0,False,My Bloody Valentine,2009,Horror|Thriller,5.5,Patrick Lussier,51527787.0,R,15000000.0,Jensen Ackles,coma|death|miner|valentine|valentine's day
+1034032,1.0,0.0,False,Gamer,2009,Action|Sci-Fi|Thriller,5.8,Mark Neveldine,20488579.0,R,50000000.0,Gerard Butler,battle|convict|death|mind control|role playing
+1300851,0.0,0.0,False,The Boondock Saints II: All Saints Day,2009,Action|Crime|Thriller,6.3,Troy Duffy,10269307.0,R,8000000.0,Norman Reedus,final showdown|ireland|justice|priest|sheep
+1191111,1.0,0.0,False,Enter the Void,2009,Drama|Fantasy,7.3,Gaspar Noé,336467.0,Not Rated,13000000.0,Paz de la Huerta,drug deal|drugs|explicit sex|love|stripper
+1001508,3.0,0.0,True,He's Just Not That Into You,2009,Comedy|Drama|Romance,6.4,Ken Kwapis,93952276.0,PG-13,40000000.0,Carmen Perez,advertising|bar|dating|lingerie slip|six word title
+1289406,1.0,0.0,False,Harry Brown,2009,Action|Crime|Drama|Thriller,7.2,Daniel Barber,1818681.0,R,7300000.0,Joseph Gilgun,bayonet|death|police|self defense|widower
+1188729,1.0,0.0,False,Pandorum,2009,Action|Horror|Mystery|Sci-Fi|Thriller,6.8,Christian Alvart,10326062.0,R,33000000.0,Norman Reedus,future|mission|space|spaceship|survival
+1220198,3.0,0.0,True,The Fourth Kind,2009,Mystery|Sci-Fi|Thriller,5.9,Olatunde Osunsanmi,25464480.0,PG-13,10000000.0,Milla Jovovich,abduction|alaska|alien|owl|patient
+1144884,3.0,0.0,True,The Final Destination,2009,Horror,5.2,David R. Ellis,66466372.0,R,40000000.0,Krista Allen,attempted suicide|car crash|collapsing scaffold|overflowing bathtub|tooth knocked out
+1245112,1.0,0.0,False,[Rec] 2,2009,Horror,6.6,Jaume Balagueró,27024.0,R,5600000.0,Jonathan D. Mellor,apartment|apartment building|blood sample|crucifix|zombie
+1285309,3.0,0.0,True,The Joneses,2009,Comedy|Drama,6.5,Derrick Borte,1474508.0,R,5000000.0,Demi Moore,envy|fake family|gadget|materialism|unhappy marriage
+1148165,1.0,0.0,False,Bran Nue Dae,2009,Comedy|Drama|Musical,6.3,Rachel Perkins,110029.0,PG-13,6500000.0,Deborah Mailman,australia|journey|love|priest|traveling
+1232783,3.0,1.0,True,Sorority Row,2009,Horror|Mystery,5.1,Stewart Hendler,11956207.0,R,16000000.0,Julian Morris,prank gone wrong|scantily clad female|shotgun|sorority house|stabbed in the neck
+1127896,1.0,0.0,False,Taking Woodstock,2009,Comedy|Drama|Music,6.7,Ang Lee,7443007.0,R,30000000.0,Imelda Staunton,female full frontal nudity|female nudity|male frontal nudity|male full frontal nudity|male nudity
+1385912,1.0,0.0,False,I Can Do Bad All by Myself,2009,Comedy|Drama,4.1,Tyler Perry,51697449.0,PG-13,13000000.0,Eric Mendenhall,aunt|immigrant|looting|love|nightclub singer
+1045778,3.0,0.0,True,Year One,2009,Adventure|Comedy,4.9,Harold Ramis,43337279.0,PG-13,60000000.0,Olivia Wilde,abraham|hunter|princess|sodom|tribe
+1078912,1.0,0.0,False,Night at the Museum: Battle of the Smithsonian,2009,Adventure|Comedy|Family|Fantasy,5.9,Shawn Levy,177243721.0,PG,150000000.0,Robin Williams,hdtv|motorcycle|museum|security guard|tyrannosaurus rex
+1226232,3.0,0.0,True,The Greatest,2009,Drama|Romance,6.7,Shana Feste,115862.0,R,6000000.0,Jennifer Ehle,car crash|loss|self help group|teenage mother|title directed by female
+1014759,3.0,0.0,True,Alice in Wonderland,2010,Adventure|Family|Fantasy,6.5,Tim Burton,334185206.0,PG,200000000.0,Johnny Depp,alice in wonderland|mistaking reality for dream|queen|shrinking|shrinking potion
+1014759,3.0,0.0,True,Alice in Wonderland,2010,Adventure|Family|Fantasy,6.5,Tim Burton,334185206.0,PG,200000000.0,Johnny Depp,alice in wonderland|mistaking reality for dream|queen|shrinking|shrinking potion
+1305583,3.0,0.0,True,Our Family Wedding,2010,Comedy|Romance,4.9,Rick Famuyiwa,20246959.0,PG-13,14000000.0,America Ferrera,california|love|marriage|wedding|wedding dress
+1196141,3.0,0.0,True,Diary of a Wimpy Kid,2010,Comedy|Family,6.2,Thor Freudenthal,64001297.0,PG,15000000.0,Chloë Grace Moretz,cheese|diary|friend|middle school|school
+1231587,1.0,0.0,False,Hot Tub Time Machine,2010,Comedy|Sci-Fi,6.4,Steve Pink,50213619.0,R,36000000.0,Charlie McDermott,cheating wife|drug reference|maintenance man|male vomiting|promiscuous woman
+1130884,1.0,0.0,False,Shutter Island,2010,Mystery|Thriller,8.1,Martin Scorsese,127968405.0,R,80000000.0,Leonardo DiCaprio,female prisoner|plot twist|self delusion|surprise ending|year 1954
+1053424,3.0,0.0,True,Repo Men,2010,Action|Crime|Sci-Fi|Thriller,6.3,Miguel Sapochnik,13763130.0,R,32000000.0,Alice Braga,artificial organ|best friend|enforcer|future|near future
+1250777,1.0,0.0,False,Kick-Ass,2010,Action|Comedy,7.7,Matthew Vaughn,48043505.0,R,30000000.0,Elizabeth McGovern,comic book|female killer|hit in the crotch|narrated by character|reference to batman
+1279935,3.0,0.0,True,Date Night,2010,Comedy|Crime|Romance|Thriller,6.3,Shawn Levy,98711404.0,PG-13,55000000.0,Mila Kunis,city|new york city|night|reservation|restaurant
+1228705,3.0,0.0,True,Iron Man 2,2010,Action|Adventure|Sci-Fi,7.0,Jon Favreau,312057433.0,PG-13,200000000.0,Robert Downey Jr.,hammer|military|monaco|revenge|tony stark
+1212436,3.0,0.0,True,The Back-up Plan,2010,Comedy|Romance,5.3,Alan Poul,37481242.0,PG-13,35000000.0,Danneel Ackles,artificial insemination|baby|cheese|chick flick|pet shop
+1470023,1.0,0.0,False,MacGruber,2010,Action|Comedy|Romance,5.5,Jorma Taccone,8460995.0,R,10000000.0,Jasper Cole,colonel|lieutenant|nuclear warhead|team|washington d.c.
+1139328,2.0,0.0,False,The Ghost Writer,2010,Mystery|Thriller,7.2,Roman Polanski,15523168.0,PG-13,45000000.0,Jim Belushi,british prime minister|death|island|memoir|writer
+1017451,3.0,0.0,True,The Runaways,2010,Biography|Drama|Music,6.6,Floria Sigismondi,3571735.0,R,10000000.0,Kristen Stewart,band|box office flop|critically bashed|historically inaccurate|revisionist history
+1261945,3.0,0.0,True,Sex and the City 2,2010,Comedy|Drama|Romance,4.3,Michael Patrick King,95328937.0,R,100000000.0,Chris Noth,abu dhabi|box office hit|muslim|nanny|united arab emirates
+1037705,3.0,0.0,True,The Book of Eli,2010,Action|Adventure|Drama|Thriller,6.9,Albert Hughes,94822707.0,R,80000000.0,Denzel Washington,blind|book|long take|post apocalypse|water
+1399683,3.0,0.0,True,Winter's Bone,2010,Drama,7.2,Debra Granik,6531491.0,R,2000000.0,Jennifer Lawrence,bail|crystal meth|family relationships|female protagonist|search for father
+1570989,3.0,0.0,True,Tiny Furniture,2010,Comedy|Drama|Romance,6.3,Lena Dunham,389804.0,Not Rated,65000.0,Lena Dunham,adult returns home|girl with glasses|hipster|shower|title directed by female
+1038686,3.0,0.0,True,Legion,2010,Action|Fantasy|Horror,5.2,Scott Stewart,40168080.0,R,26000000.0,Dennis Quaid,angel|diner|faith|human race|religious faith
+1375670,3.0,0.0,True,Grown Ups,2010,Comedy,6.0,Dennis Dugan,162001186.0,PG-13,80000000.0,Steve Buscemi,basketball|coach|daughter|high school|high school basketball
+1226236,3.0,0.0,True,I Am Love,2009,Drama|Romance,7.0,Luca Guadagnino,5004648.0,R,10000000.0,Flavio Parenti,chef|friend|italy|restaurant|russian
+1320253,1.0,0.0,False,The Expendables,2010,Action|Adventure|Thriller,6.5,Sylvester Stallone,102981571.0,R,80000000.0,Jason Statham,action hero|assassination attempt|explosion|machine gun|rescue mission
+1403981,3.0,0.0,True,Remember Me,2010,Drama|Romance,7.2,Allen Coulter,19057024.0,PG-13,16000000.0,Robert Pattinson,binge drinking|new york|new york city|september 11 2001|suicide
+1386588,2.0,0.0,False,The Other Guys,2010,Action|Comedy|Crime,6.7,Adam McKay,119219978.0,PG-13,100000000.0,Dwayne Johnson,capitalist|detective|investigation|new york city|police
+1182350,3.0,0.0,True,You Will Meet a Tall Dark Stranger,2010,Comedy|Drama|Romance,6.3,Woody Allen,3247816.0,R,22000000.0,Anthony Hopkins,call girl|charlatan|fortune teller|manuscript|writer
+1220634,3.0,0.0,True,Resident Evil: Afterlife,2010,Action|Adventure|Horror|Sci-Fi,5.9,Paul W.S. Anderson,60128566.0,R,60000000.0,Milla Jovovich,alaska|female gunfighter|mutation|ship|siege
+1013743,2.0,0.0,False,Knight and Day,2010,Action|Comedy|Romance,6.3,James Mangold,76418654.0,PG-13,117000000.0,Tom Cruise,chase|fbi|garage|spy|surveillance
+1325004,3.0,0.0,True,The Twilight Saga: Eclipse,2010,Adventure|Drama|Fantasy|Romance,4.9,David Slade,300523113.0,PG-13,68000000.0,Robert Pattinson,friendship|graduation|revenge|vampire|werewolf
+1323594,3.0,0.0,True,Despicable Me,2010,Animation|Comedy|Family,7.7,Pierre Coffin,251501645.0,PG,69000000.0,Steve Carell,girl|minion|moon|pyramid|white picket fence
+1336617,1.0,0.0,False,Cyrus,2010,Comedy|Drama|Romance,6.3,Jay Duplass,7455447.0,R,7000000.0,Matt Walsh,21 year old|forename as title|musician|party|rearview mirror
+1424381,0.0,0.0,False,Predators,2010,Action|Adventure|Sci-Fi|Thriller,6.4,Nimród Antal,52000688.0,R,40000000.0,Topher Grace,kicked in the face|martial arts|punched in the face|strong female character|woman punching a man
+1375666,3.0,1.0,True,Inception,2010,Action|Adventure|Sci-Fi|Thriller,8.8,Christopher Nolan,292568851.0,PG-13,160000000.0,Leonardo DiCaprio,ambiguous ending|corporate espionage|dream|subconscious|thief
+1282140,3.0,0.0,True,Easy A,2010,Comedy|Romance,7.1,Will Gluck,58401464.0,PG-13,8000000.0,Emma Stone,gay|gay interest|high school|school|student
+1440728,1.0,0.0,False,The American,2010,Crime|Drama|Thriller,6.3,Anton Corbijn,35596227.0,R,20000000.0,Violante Placido,ambush|assassin|priest|prostitute|sweden
+1385867,1.0,0.0,False,Cop Out,2010,Action|Comedy|Crime,5.6,Kevin Smith,44867349.0,R,37000000.0,Bruce Willis,baseball card|detective|partner|thief|wedding
+1322312,3.0,0.0,True,Going the Distance,2010,Comedy|Romance,6.3,Nanette Burstein,17797316.0,R,32000000.0,Rob Riggle,bar|job|long distance relationship|male pubic hair|pubic hair
+1320244,3.0,0.0,True,The Last Exorcism,2010,Drama|Horror|Thriller,5.6,Daniel Stamm,40990055.0,PG-13,1800000.0,Caleb Landry Jones,cult film|documentary crew|exorcism|found footage|satanic ritual
+1285016,1.0,0.0,False,The Social Network,2010,Biography|Drama,7.7,David Fincher,96917897.0,PG-13,40000000.0,Andrew Garfield,competitiveness|creator|entrepreneur|facebook|intellectual property
+1414382,3.0,0.0,True,You Again,2010,Comedy|Family|Romance,5.8,Andy Fickman,25677801.0,PG,20000000.0,Jamie Lee Curtis,dancing|dog|flight|hostility|travel
+1228987,1.0,0.0,False,Let Me In,2010,Drama|Fantasy|Horror|Mystery,7.2,Matt Reeves,12134420.0,R,20000000.0,Chloë Grace Moretz,blood|boy|night|school|vampire
+1462758,1.0,0.0,False,Buried,2010,Drama|Mystery|Thriller,7.0,Rodrigo Cortés,1028658.0,R,3000000.0,Ryan Reynolds,buried alive|coffin|iraq|one person|single set production
+1371155,3.0,0.0,True,Made in Dagenham,2010,Biography|Comedy|Drama|History,7.2,Nigel Cole,1094798.0,R,7200000.0,Bob Hoskins,equal pay|machinist|minister|protest|sex
+1274300,3.0,0.0,True,The Tempest,2010,Comedy|Drama|Fantasy|Romance,5.4,Julie Taymor,263365.0,PG-13,20000000.0,Djimon Hounsou,banishment|sorcery|spirit|staff|storm at sea
+1027718,3.0,1.0,True,Wall Street: Money Never Sleeps,2010,Drama,6.3,Oliver Stone,52474616.0,PG-13,70000000.0,Frank Langella,corporate greed|crisis|economy|greed|mentor
+1028576,3.0,0.0,True,Secretariat,2010,Biography|Drama|Family|History|Sport,7.2,Randall Wallace,59699513.0,PG,35000000.0,Scott Glenn,eccentric|horse racing|newspaper clipping|stallion|triple crown
+1245526,2.0,0.0,False,RED,2010,Action|Comedy|Crime|Thriller,7.1,Robert Schwentke,90356857.0,PG-13,58000000.0,Bruce Willis,cia|female assassin|interrogation|office cubicle|spy
+1314655,3.0,0.0,True,Devil,2010,Horror|Mystery|Thriller,6.3,John Erick Dowdle,33583175.0,PG-13,10000000.0,Bojana Novakovic,devil|elevator|hit and run|throat slitting|trapped in an elevator
+1126618,3.0,0.0,True,Morning Glory,2010,Comedy|Drama|Romance,6.5,Roger Michell,30993544.0,PG-13,40000000.0,Noah Bean,job offer|roller coaster|slow motion action scene|slow motion sequence|television
+1126591,3.0,0.0,True,Burlesque,2010,Drama|Music|Musical|Romance,6.4,Steve Antin,39440655.0,PG-13,55000000.0,Eric Dane,burlesque|dancer|iowa|small town girl|stage
+1668200,3.0,0.0,True,Sarah's Key,2010,Drama|War,7.5,Gilles Paquet-Brenner,7691700.0,PG-13,10000000.0,Kristin Scott Thomas,apartment|escape|jewish family|journalist|key
+1001526,0.0,0.0,False,Megamind,2010,Action|Animation|Comedy|Family|Sci-Fi,7.3,Tom McGrath,148337537.0,PG,130000000.0,J.K. Simmons,battle|city|planet|prison|superhero
+1542344,3.0,1.0,True,127 Hours,2010,Adventure|Biography|Drama|Thriller,7.6,Danny Boyle,18329466.0,R,18000000.0,James Franco,alone|aron ralston|based on autobiography|canyon|survival
+1431181,3.0,0.0,True,Another Year,2010,Comedy|Drama,7.3,Mike Leigh,3205244.0,PG-13,10000000.0,Jim Broadbent,autumn|four seasons|friend|looking at one's self in a mirror|unhappiness
+1458175,3.0,0.0,True,The Next Three Days,2010,Crime|Drama|Romance|Thriller,7.4,Paul Haggis,21129348.0,PG-13,35000000.0,Olivia Wilde,argument|evidence|fingerprints|murder|murder weapon
+1588337,0.0,0.0,False,Of Gods and Men,2010,Drama,7.2,Xavier Beauvois,3950029.0,PG-13,4000000.0,Lambert Wilson,catholic church|community|monastery|monk|terrorist
+1470827,0.0,0.0,False,Monsters,2010,Drama|Sci-Fi|Thriller,6.4,Gareth Edwards,237301.0,R,500000.0,Scoot McNairy,alien|alien invasion|destroyed building|destruction|mexico
+1104001,1.0,0.0,False,TRON: Legacy,2010,Action|Adventure|Sci-Fi,6.8,Joseph Kosinski,172051787.0,PG,170000000.0,Jeff Bridges,arcade|bridge|disappearance|escape|warrior
+1104001,1.0,0.0,False,TRON: Legacy,2010,Action|Adventure|Sci-Fi,6.8,Joseph Kosinski,172051787.0,PG,170000000.0,Jeff Bridges,arcade|bridge|disappearance|escape|warrior
+1403865,3.0,0.0,True,True Grit,2010,Adventure|Drama|Western,7.7,Ethan Coen,171031347.0,PG-13,38000000.0,Matt Damon,arkansas|murder|sheriff|texas ranger|u.s. marshal
+1504320,3.0,0.0,True,The King's Speech,2010,Biography|Drama|History|Romance,8.0,Tom Hooper,138795342.0,R,15000000.0,Colin Firth,king|king george vi|speech|speech therapist|throne
+1438254,1.0,1.0,False,Charlie St. Cloud,2010,Drama|Fantasy|Romance,6.5,Burr Steers,31136950.0,PG-13,44000000.0,Augustus Prew,brother brother relationship|death of brother|ghost|seeing dead people|talking with the dead
+1243957,0.0,0.0,False,The Tourist,2010,Action|Romance|Thriller,6.0,Florian Henckel von Donnersmarck,67631157.0,PG-13,100000000.0,Johnny Depp,police surveillance|surveillance van|tailing a suspect|tourist|venice italy
+1243957,0.0,0.0,False,The Tourist,2010,Action|Romance|Thriller,6.0,Florian Henckel von Donnersmarck,67631157.0,PG-13,100000000.0,Johnny Depp,police surveillance|surveillance van|tailing a suspect|tourist|venice italy
+1564585,3.0,1.0,True,Skyline,2010,Action|Sci-Fi|Thriller,4.4,Colin Strause,21371425.0,PG-13,10000000.0,David Zayas,apartment|blue light|drawing|group of friends|light
+1302067,0.0,0.0,False,Yogi Bear,2010,Adventure|Animation|Comedy|Family,4.6,Eric Brevig,100169068.0,PG,80000000.0,Justin Timberlake,bear|mayor|park|sabotage|yogi bear
+1334260,3.0,0.0,True,Never Let Me Go,2010,Drama|Romance|Sci-Fi,7.2,Mark Romanek,2412045.0,R,15000000.0,Andrew Garfield,boarding school|childhood|love|love triangle|organ donation
+1120985,2.0,0.0,False,Blue Valentine,2010,Drama|Romance,7.4,Derek Cianfrance,9701559.0,R,3500000.0,Ryan Gosling,dog hit by a car|dysfunctional family|falling in love|female in shower|unhappily married woman
+1273678,3.0,0.0,True,The Spy Next Door,2010,Action|Comedy|Family,5.4,Brian Levant,24268828.0,PG,28000000.0,Madeline Carroll,chinese|cia|single mother|spy|terrorist
+1421051,3.0,1.0,True,Somewhere,2010,Comedy|Drama,6.3,Sofia Coppola,1768416.0,R,7000000.0,Nathalie Fay,actor|boredom|luxury hotel|party|trip
+1433108,0.0,0.0,False,Faster,2010,Action|Crime|Drama|Thriller,6.5,George Tillman Jr.,23225911.0,R,24000000.0,Dwayne Johnson,gun|prison|reference to god|reference to jesus christ|vengeance
+1255953,3.0,0.0,True,Incendies,2010,Drama|Mystery|War,8.2,Denis Villeneuve,6857096.0,R,6800000.0,Lubna Azabal,brother sister relationship|family relationships|middle east|mother son relationship|twin brother and sister
+1231583,1.0,0.0,False,Due Date,2010,Comedy|Drama,6.6,Todd Phillips,100448498.0,R,65000000.0,Robert Downey Jr.,actor|aspiring actor|birth|misadventure|suitcase
+1612774,3.0,1.0,True,Rubber,2010,Comedy|Fantasy|Horror,5.8,Quentin Dupieux,98017.0,R,500000.0,Haley Ramm,desert|dump|show|spectator|tire
+1135084,1.0,0.0,False,Takers,2010,Action|Crime|Thriller,6.2,John Luessenhop,57744720.0,PG-13,20000000.0,Paul Walker,armored car|bank|falling out among thieves|heist|planning
+1591095,3.0,0.0,True,Insidious,2010,Fantasy|Horror|Mystery|Thriller,6.8,James Wan,53991137.0,PG-13,1500000.0,Lin Shaye,baby|boy|coma|demon|house
+1512235,1.0,0.0,False,Super,2010,Comedy|Crime|Drama,6.8,James Gunn,322157.0,R,2500000.0,Linda Cardellini,drug dealer|superhero|tragedy|tragic hero|tragic love
+1531663,1.0,0.0,False,Everything Must Go,2010,Comedy|Drama,6.4,Dan Rush,2711210.0,R,5000000.0,Will Ferrell,alcoholic|beer|bicycle|new neighbor|yard sale
+1194417,1.0,0.0,False,Casino Jack,2010,Biography|Comedy|Crime|Drama,6.2,George Hickenlooper,1039869.0,R,15000000.0,Kevin Spacey,corruption|lobbyist|murder|washington d.c.|washington d.c. lobbyist
+1415283,3.0,0.0,True,Nanny McPhee Returns,2010,Comedy|Family|Fantasy,6.1,Susanna White,28995450.0,PG,35000000.0,Daniel Mays,farm|magic|mother daughter relationship|overalls|title directed by female
+1532503,1.0,0.0,False,Beginners,2010,Comedy|Drama|Romance,7.2,Mike Mills,5776314.0,R,3200000.0,Goran Visnjic,actress|cancer|death|french|gay relationship
+1235189,1.0,0.0,False,Wild Target,2010,Action|Comedy|Crime,6.9,Jonathan Lynn,117190.0,PG-13,8000000.0,Rupert Grint,apprentice|assassin|hitman|kleptomaniac|thief
+1226753,3.0,0.0,True,The Debt,2010,Drama|Thriller,6.9,John Madden,31146570.0,R,20000000.0,Tom Wilkinson,east berlin|kiev ukraine|mossad|nazi|nazi war criminal
+1740707,1.0,0.0,False,Trollhunter,2010,Comedy|Drama|Fantasy|Horror,7.0,André Øvredal,252652.0,PG-13,19900000.0,Otto Jespersen,bear|cameraman|hunter|secret government agency|troll
+1270761,3.0,0.0,True,Don't Be Afraid of the Dark,2010,Fantasy|Horror|Thriller,5.6,Troy Nixey,24042490.0,R,25000000.0,Bailee Madison,basement|creature|disappearance|interior designer|mansion
+1440232,3.0,0.0,True,Little White Lies,2010,Comedy|Drama,7.1,Guillaume Canet,183662.0,Not Rated,25000000.0,François Cluzet,friend|restaurant|secret|unrequited love|vacation
+1536044,3.0,0.0,True,Paranormal Activity 2,2010,Horror,5.7,Tod Williams,84749884.0,R,3000000.0,Sprague Grayden,california|carlsbad california|house|nanny|security camera
+1464580,1.0,0.0,False,Stake Land,2010,Drama|Horror|Sci-Fi,6.5,Jim Mickle,18469.0,R,650000.0,Connor Paolo,canada|post apocalypse|road movie|vampire|vampire hunter
+1013860,0.0,0.0,False,Dylan Dog: Dead of Night,2010,Action|Comedy|Crime|Fantasy|Horror|Mystery|Sci-Fi|Thriller,5.1,Kevin Munroe,1183354.0,PG-13,20000000.0,Marco St. John,close up of eyes|monster|quirkiness|supernatural|vomiting
+1226273,1.0,0.0,False,Edge of Darkness,2010,Crime|Drama|Mystery|Thriller,6.6,Martin Campbell,43290977.0,R,80000000.0,Bojana Novakovic,activist|detective|father daughter relationship|investigation|vigilantism
+1555064,3.0,0.0,True,Country Strong,2010,Drama|Music,6.3,Shana Feste,20218921.0,PG-13,15000000.0,Leighton Meester,country music|panties|pink panties|relapse|songwriter
+1294226,3.0,0.0,True,The Last Song,2010,Drama|Family|Music|Romance,5.8,Julie Anne Robinson,62933793.0,PG,20000000.0,Kelly Preston,beach|fire|love|pianist|summer
+1341188,3.0,0.0,True,How Do You Know,2010,Comedy|Drama|Romance,5.3,James L. Brooks,30212620.0,PG-13,120000000.0,Shelley Conn,embarrassment|falling in love|love|love triangle|revelation
+1106860,0.0,0.0,False,Ca$h,2010,Comedy|Crime|Thriller,6.0,Stephen Milburn Anderson,46451.0,R,7000000.0,Chris Hemsworth,cash|financial problem|heist|land rover|mortgage
+1216492,3.0,0.0,True,Leap Year,2010,Comedy|Romance,6.4,Anand Tucker,12561.0,PG,19000000.0,Adam Scott,ireland|irish|journey|tradition|travel
+1534085,2.0,1.0,False,Beyond the Black Rainbow,2010,Sci-Fi|Thriller,6.1,Panos Cosmatos,56129.0,R,1100000.0,Chris Gauthier,exploitation|four word title|hallucinogen|lynchian|telepathy
+1334553,2.0,0.0,False,The Perfect Host,2010,Comedy|Crime|Thriller,6.8,Nick Tomnay,48430.0,R,500000.0,David Hyde Pierce,arm tattoo|bank robbery|cauterizing a wound|dancing on a table|dinner party
+1193631,3.0,0.0,True,Step Up 3D,2010,Drama|Music|Romance,6.2,Jon M. Chu,42385520.0,PG-13,30000000.0,Alyson Stoner,dance|dance crew|dancer|mortgage|new york city
+1092026,3.0,0.0,True,Paul,2011,Adventure|Comedy|Sci-Fi,7.0,Greg Mottola,37371385.0,R,40000000.0,Bobby Lee,alien|geek|nerd|road trip|ufo
+1161864,3.0,1.0,True,The Rite,2011,Drama|Horror|Mystery|Thriller,6.0,Mikael Håfström,33037754.0,PG-13,37000000.0,Anthony Hopkins,demon|exorcism|exorcist|faith|seminary
+1464540,1.0,0.0,False,I Am Number Four,2011,Action|Adventure|Sci-Fi|Thriller,6.1,D.J. Caruso,55092830.0,PG-13,60000000.0,Alex Pettyfer,based on young adult novel|good versus evil|guardian|human alien|ohio
+1385826,3.0,1.0,True,The Adjustment Bureau,2011,Romance|Sci-Fi|Thriller,7.1,George Nolfi,62453315.0,PG-13,50200000.0,Matt Damon,love at first sight|obscene finger gesture|rain|teleportation|three word title
+1192628,1.0,0.0,False,Rango,2011,Adventure|Animation|Comedy|Family|Western,7.2,Gore Verbinski,123207194.0,PG,135000000.0,Johnny Depp,chameleon|lizard|sheriff|water|western town
+1217613,1.0,0.0,False,Battle Los Angeles,2011,Action|Sci-Fi,5.8,Jonathan Liebesman,83552429.0,PG-13,70000000.0,Noel Fisher,alien|extraterrestrial|invasion|marine|mission
+1478338,3.0,0.0,True,Bridesmaids,2011,Comedy|Romance,6.8,Paul Feig,169076745.0,R,32500000.0,Matt Lucas,best friend|failure|food|job|partial female nudity
+1486185,3.0,0.0,True,Red Riding Hood,2011,Fantasy|Horror|Mystery|Thriller,5.4,Catherine Hardwicke,37652565.0,PG-13,42000000.0,Gary Oldman,death|forest|love|werewolf|werewolf bite
+1152398,1.0,0.0,False,Beastly,2011,Drama|Fantasy|Romance,5.6,Daniel Barnz,27854896.0,PG-13,17000000.0,Alex Pettyfer,love|maid|newscaster|student|tutor
+1189340,1.0,0.0,False,The Lincoln Lawyer,2011,Crime|Drama|Thriller,7.3,Brad Furman,57981889.0,R,40000000.0,Matthew McConaughey,defense attorney|defense lawyer|lawyer|plot twist|prostitute
+1240982,1.0,0.0,False,Your Highness,2011,Adventure|Comedy|Fantasy,5.6,David Gordon Green,21557240.0,R,49900000.0,Natalie Portman,knight|prince|quest|rescue|thong bikini
+1262416,3.0,0.0,True,Scream 4,2011,Horror|Mystery,6.2,Wes Craven,38176892.0,R,40000000.0,Alison Brie,author|book|deputy|murder|sheriff
+1411704,2.0,0.0,False,Hop,2011,Adventure|Animation|Comedy|Family|Fantasy,5.5,Tim Hill,108012170.0,PG,63000000.0,Gary Cole,drummer|easter|easter bunny|piaggio vespa gtv 250|slacker
+1436562,1.0,0.0,False,Rio,2011,Adventure|Animation|Comedy|Family|Musical,7.0,Carlos Saldanha,143618384.0,G,90000000.0,Anne Hathaway,bird|brazilian|cockatoo|macaw|minnesota
+1596343,3.0,0.0,True,Fast Five,2011,Action|Crime|Thriller,7.3,Justin Lin,209805005.0,PG-13,125000000.0,Paul Walker,drug lord|drugs|federal agent|heist|police
+1411238,3.0,0.0,True,No Strings Attached,2011,Comedy|Romance,6.2,Ivan Reitman,70625986.0,R,25000000.0,Natalie Portman,ex girlfriend|funeral|hospital|male objectification|summer camp
+1454029,3.0,0.0,True,The Help,2011,Drama,8.1,Tate Taylor,169705587.0,PG-13,25000000.0,Emma Stone,black servant|chocolate pie|jackson mississippi|maid|writing a novel
+1403177,1.0,0.0,False,Hesher,2010,Drama,7.1,Spencer Susser,382946.0,R,7000000.0,Joseph Gordon-Levitt,bully|car|car accident|fire|vomiting
+1527186,3.0,0.0,True,Melancholia,2011,Drama|Sci-Fi,7.1,Lars von Trier,3029870.0,R,7400000.0,Alexander Skarsgård,art director|breasts|depression|outdoor sex|riding a horse
+1298650,1.0,0.0,False,Pirates of the Caribbean: On Stranger Tides,2011,Action|Adventure|Fantasy,6.7,Rob Marshall,241063875.0,PG-13,250000000.0,Johnny Depp,blackbeard|captain|pirate|revenge|soldier
+1067583,1.0,0.0,False,Water for Elephants,2011,Drama|Romance,6.9,Francis Lawrence,58700247.0,PG-13,38000000.0,Robert Pattinson,circus|circus vargas|elephant|fear|train
+1411697,1.0,0.0,False,The Hangover Part II,2011,Comedy,6.5,Todd Phillips,254455986.0,R,80000000.0,Bradley Cooper,hotel|male frontal nudity|pubic hair|thailand|wedding
+1270798,3.0,0.0,True,X-Men: First Class,2011,Action|Adventure|Sci-Fi,7.8,Matthew Vaughn,146405371.0,PG-13,160000000.0,Jennifer Lawrence,cia|cia agent|mutant|nuclear war|professor
+1650062,3.0,0.0,True,Super 8,2011,Mystery|Sci-Fi|Thriller,7.1,J.J. Abrams,126975169.0,PG-13,50000000.0,Joel Courtney,deputy|group of friends|time|train|train crash
+1133985,1.0,0.0,False,Green Lantern,2011,Action|Adventure|Sci-Fi,5.6,Martin Campbell,116593191.0,PG-13,200000000.0,Ryan Reynolds,autopsy|lantern|planet|ring|test pilot
+1396218,1.0,0.0,False,Mr. Popper's Penguins,2011,Comedy|Family|Fantasy,6.0,Mark Waters,68218041.0,PG,55000000.0,Madeline Carroll,father|penguin|snowglobe|son|winter
+1284575,3.0,0.0,True,Bad Teacher,2011,Comedy,5.7,Jake Kasdan,100292856.0,R,20000000.0,Justin Timberlake,boob job|breast enlargement|breast surgery|cheating on a test|ejaculation
+1399103,3.0,0.0,True,Transformers: Dark of the Moon,2011,Action|Adventure|Sci-Fi,6.3,Michael Bay,352358779.0,PG-13,195000000.0,Glenn Morshower,autobot|decepticon|job interview|moon|spacecraft
+1605783,3.0,0.0,True,Midnight in Paris,2011,Comedy|Fantasy|Romance,7.7,Woody Allen,56816662.0,PG-13,17000000.0,Kurt Fuller,1920s|golden age|midnight|paris france|time travel romance
+1499658,3.0,0.0,True,Horrible Bosses,2011,Comedy|Crime,6.9,Seth Gordon,117528646.0,R,35000000.0,Kevin Spacey,black comedy|boss|chemical company|dental assistant|murder
+1632708,3.0,0.0,True,Friends with Benefits,2011,Comedy|Romance,6.6,Will Gluck,55802754.0,R,35000000.0,Mila Kunis,blow job|female rear nudity|girl in panties|male objectification|no panties
+1570728,3.0,0.0,True,"Crazy, Stupid, Love.",2011,Comedy|Drama|Romance,7.4,Glenn Ficarra,84244877.0,PG-13,50000000.0,Ryan Gosling,bar|divorce|friend|girl|male objectification
+1318514,1.0,0.0,False,Rise of the Planet of the Apes,2011,Action|Drama|Sci-Fi|Thriller,7.6,Rupert Wyatt,176740650.0,PG-13,93000000.0,James Franco,alzheimer's disease|ape|chimpanzee|fire|when animals attack
+1449283,0.0,0.0,False,Winnie the Pooh,2011,Adventure|Animation|Comedy|Family|Musical,7.3,Stephen J. Anderson,26687172.0,G,30000000.0,Craig Ferguson,disney|owl|rabbit|sequel|tiger
+1622547,1.0,0.0,False,30 Minutes or Less,2011,Action|Comedy|Crime,6.1,Ruben Fleischer,37053924.0,R,28000000.0,Bianca Kajlich,bank heist|bank robbery|heist gone wrong|pizza delivery boy|unlikely criminal
+1832382,3.0,0.0,True,A Separation,2011,Drama|Mystery,8.4,Asghar Farhadi,7098492.0,PG-13,500000.0,Shahab Hosseini,alzheimer's disease|caregiver|divorce|iran|iranian
+1772240,0.0,0.0,False,Apollo 18,2011,Horror|Mystery|Sci-Fi|Thriller,5.2,Gonzalo López-Gallego,17683670.0,PG-13,5000000.0,Warren Christie,cosmonaut|footprint|found footage|moon|secret mission
+1540133,1.0,0.0,False,The Guard,2011,Comedy|Crime|Thriller,7.3,John Michael McDonagh,5359774.0,R,6000000.0,Don Cheadle,boat on fire|drug smuggling|fbi|fbi agent|small town
+1598778,3.0,0.0,True,Contagion,2011,Drama|Thriller,6.6,Steven Soderbergh,75638743.0,PG-13,60000000.0,Matt Damon,contagion|cure|infection|panic|virus
+1302011,3.0,0.0,True,Kung Fu Panda 2,2011,Action|Adventure|Animation|Comedy|Family,7.3,Jennifer Yuh Nelson,165230261.0,PG,150000000.0,Angelina Jolie Pitt,china|kung fu|panda|peacock|tigress
+1564349,2.0,0.0,False,Dolphin Tale,2011,Drama|Family,6.9,Charles Martin Smith,72279690.0,PG,37000000.0,Morgan Freeman,boy|dolphin|prosthetics|tail|trap
+1448755,0.0,0.0,False,Killer Elite,2011,Action|Crime|Thriller,6.5,Gary McKendry,25093607.0,R,35000000.0,Jason Statham,australia|death|mentor|revenge|secret society
+1210166,1.0,0.0,False,Moneyball,2011,Biography|Drama|Sport,7.6,Bennett Miller,75605492.0,PG-13,50000000.0,Philip Seymour Hoffman,baseball|meeting|statistics|strategy|voice over
+1478964,3.0,0.0,True,Attack the Block,2011,Action|Comedy|Sci-Fi|Thriller,6.6,Joe Cornish,1024175.0,R,13000000.0,John Boyega,alien|alien invasion|apartment|creature|gang
+1124035,1.0,0.0,False,The Ides of March,2011,Drama,7.1,George Clooney,40962534.0,R,12500000.0,Ryan Gosling,governor|intern|manager|ohio|politics
+1340800,1.0,0.0,False,Tinker Tailor Soldier Spy,2011,Drama|Mystery|Thriller,7.1,Tomas Alfredson,24104113.0,R,20000000.0,Benedict Cumberbatch,cold war|hungary|mole|spy|woman on top
+1655442,1.0,1.0,False,The Artist,2011,Comedy|Drama|Romance,8.0,Michel Hazanavicius,44667095.0,PG-13,15000000.0,Bérénice Bejo,1920s|jack russell terrier|modern silent movie|movie star|movie studio
+1216475,2.0,0.0,False,Cars 2,2011,Adventure|Animation|Comedy|Family|Sport,6.3,John Lasseter,191450875.0,G,200000000.0,Joe Mantegna,best friend|car race|conspiracy|gadget car|spy
+1509767,2.0,0.0,False,The Three Musketeers,2011,Action|Adventure|Romance,5.8,Paul W.S. Anderson,20315324.0,PG-13,75000000.0,Milla Jovovich,box office flop|cardinal richelieu|critically bashed|duel|musketeer
+1053810,2.0,1.0,False,The Big Year,2011,Comedy,6.2,David Frankel,7204138.0,PG,41000000.0,Joel McHale,alaska|birding|competition|migration|storm
+1242460,3.0,0.0,True,We Need to Talk About Kevin,2011,Drama|Thriller,7.5,Lynne Ramsay,1738692.0,R,7000000.0,Ezra Miller,archery|defiance|mental illness|psychopath|toilet training
+1637688,1.0,0.0,False,In Time,2011,Action|Sci-Fi|Thriller,6.7,Andrew Niccol,37553932.0,PG-13,40000000.0,Matt Bomer,currency|future|murder|on the run|time
+1306980,2.0,0.0,False,50/50,2011,Comedy|Drama|Romance,7.7,Jonathan Levine,34963967.0,R,8000000.0,Joseph Gordon-Levitt,best friend|cancer|survival rate|therapist|vomiting
+1615147,1.0,0.0,False,Margin Call,2011,Biography|Drama|Thriller,7.1,J.C. Chandor,5354039.0,R,3500000.0,Kevin Spacey,capital management|financial crisis|financial disaster|investment fraud|management
+1675192,3.0,0.0,True,Take Shelter,2011,Drama|Thriller,7.4,Jeff Nichols,1729969.0,R,5000000.0,Katy Mixon,ambiguous ending|firefly|mysterious event|schizophrenia|storm
+1462041,3.0,0.0,True,Dream House,2011,Drama|Mystery|Thriller,6.0,Jim Sheridan,21283440.0,PG-13,55000000.0,Naomi Watts,closet|father daughter relationship|psychiatric hospital|real life sisters playing sisters|train
+1253864,2.0,0.0,False,Immortals,2011,Action|Drama|Fantasy|Romance,6.1,Tarsem Singh,83503161.0,R,75000000.0,Henry Cavill,burned alive|castration|olympus|torture|torture device
+1268799,1.0,0.0,False,A Very Harold & Kumar 3D Christmas,2011,Adventure|Comedy,6.3,Todd Strauss-Schulson,35033759.0,R,19000000.0,Patton Oswalt,christmas|christmas tree|fire|new york city|stoner
+1758692,3.0,0.0,True,Like Crazy,2011,Drama|Romance,6.7,Drake Doremus,3388210.0,PG-13,250000.0,Jennifer Lawrence,girlfriend|immigration|long distance relationship|parents|student visa
+1033575,3.0,0.0,True,The Descendants,2011,Comedy|Drama,7.3,Alexander Payne,82624961.0,R,20000000.0,Shailene Woodley,boating accident|daughters|father daughter relationship|hospital|marriage
+1564367,3.0,1.0,True,Just Go with It,2011,Comedy|Romance,6.4,Dennis Dugan,103028109.0,PG-13,80000000.0,Adam Sandler,chick flick|hawaii|love|plastic surgeon|woman wearing a string bikini
+1622979,2.0,0.0,False,Final Destination 5,2011,Horror,5.9,Steven Quale,42575718.0,R,40000000.0,Emma Bell,blood splatter|death|eyeball run over by car|latex gloves|suspension bridge
+1778304,3.0,0.0,True,Paranormal Activity 3,2011,Horror,5.8,Henry Joost,104007828.0,R,5000000.0,Johanna Braddy,animate object|imaginary friend|reference to macgyver|whispering|woman wearing only a man's shirt
+1596346,3.0,0.0,True,Soul Surfer,2011,Biography|Drama|Family|Sport,7.1,Sean McNamara,43853424.0,PG,18000000.0,Dennis Quaid,christian|christian film|shark|surfer|surfing
+1655420,3.0,0.0,True,My Week with Marilyn,2011,Biography|Drama,7.0,Simon Curtis,14597405.0,R,6400000.0,Eddie Redmayne,actress|assistant director|blonde bombshell|movie star|wardrobe
+1204342,1.0,0.0,False,The Muppets,2011,Adventure|Comedy|Family|Musical,7.1,James Bobin,88625922.0,PG,45000000.0,Bill Cobbs,bel air california|book|friends who live together|the muppets|tribute band
+1508675,3.0,1.0,True,Le Havre,2011,Comedy|Drama,7.2,Aki Kaurismäki,611709.0,Not Rated,3850000.0,Jean-Pierre Léaud,bar|container|illegal immigrant|neighbor|shoe shiner
+1515091,1.0,0.0,False,Sherlock Holmes: A Game of Shadows,2011,Action|Adventure|Crime|Mystery|Thriller,7.5,Guy Ritchie,186830669.0,PG-13,125000000.0,Robert Downey Jr.,factory|gypsy|investigation|sherlock holmes|train
+1265990,3.0,0.0,True,The Roommate,2011,Drama|Horror|Thriller,4.8,Christian E. Christiansen,37300107.0,PG-13,16000000.0,Leighton Meester,animal abuse(non graphic)|cat killer|college|dead cat|death of cat
+1615918,3.0,1.0,True,Alvin and the Chipmunks: Chipwrecked,2011,Adventure|Animation|Comedy|Family|Fantasy|Music,4.4,Mike Mitchell,133103929.0,G,75000000.0,Amy Poehler,chipmunk|cruise ship|football ball|overboard|tennis ball
+1625346,3.0,0.0,True,Young Adult,2011,Comedy|Drama,6.3,Jason Reitman,16300302.0,R,12000000.0,Charlize Theron,car damage|computer printer|female band|fingernail polish|narcissism
+1568346,1.0,0.0,False,The Girl with the Dragon Tattoo,2011,Crime|Drama|Mystery|Thriller,7.8,David Fincher,102515793.0,R,90000000.0,Robin Wright,computer hacker|hacker|investigation|journalist|punk
+1650043,1.0,0.0,False,Diary of a Wimpy Kid: Rodrick Rules,2011,Comedy|Family,6.6,David Bowers,52691009.0,PG,21000000.0,Zachary Gordon,brother|middle school|no opening credits|photograph|school
+1093357,3.0,0.0,True,The Darkest Hour,2011,Action|Adventure|Horror|Sci-Fi|Thriller,4.9,Chris Gorak,21426805.0,PG-13,30000000.0,Max Minghella,alien|aurora borealis|critically bashed|killing an animal|nightclub
+1568911,1.0,0.0,False,War Horse,2011,Drama|War,7.2,Steven Spielberg,79883359.0,PG-13,66000000.0,Jeremy Irvine,barbed wire|british|cavalry|horse|world war one
+1229238,1.0,0.0,False,Mission: Impossible - Ghost Protocol,2011,Action|Adventure|Thriller,7.4,Brad Bird,209364921.0,PG-13,145000000.0,Tom Cruise,dubai|kremlin|race against time|russian|terrorist
+1438176,3.0,1.0,True,Fright Night,2011,Comedy|Horror,6.4,Craig Gillespie,18298649.0,R,30000000.0,Grace Phipps,neighbor|remake|suburb|teenager|vampire
+1506999,0.0,0.0,False,Haywire,2011,Action|Thriller,5.8,Steven Soderbergh,18934858.0,R,23000000.0,Channing Tatum,die hard scenario|one woman army|rescue|soldier|super soldier
+1637706,3.0,0.0,True,Our Idiot Brother,2011,Comedy|Drama,6.4,Jesse Peretz,24809547.0,R,5000000.0,Zooey Deschanel,art model|farmer|jail|nude model|three sisters
+1291584,1.0,0.0,False,Warrior,2011,Drama|Sport,8.2,Gavin O'Connor,13651662.0,PG-13,25000000.0,Tom Hardy,alcoholic|mixed martial arts|return home|tournament|underdog
+1602098,3.0,1.0,True,Albert Nobbs,2011,Drama,6.7,Rodrigo García,3014541.0,R,8000000.0,Mia Wasikowska,19th century|hotel|painter|waiter|woman pretending to be a man
+1007029,3.0,0.0,True,The Iron Lady,2011,Biography|Drama|History,6.4,Phyllida Lloyd,29959436.0,PG-13,13000000.0,Meryl Streep,british prime minister|female prime minister|politics|prime minister|told in flashback
+1071875,0.0,0.0,False,Ghost Rider: Spirit of Vengeance,2011,Action|Fantasy|Thriller,4.3,Mark Neveldine,51774002.0,PG-13,57000000.0,Nicolas Cage,deal with the devil|devil|eastern europe|ghost rider|monk
+1067774,3.0,0.0,True,Monte Carlo,2011,Adventure|Comedy|Family|Romance,5.8,Thomas Bezucha,23179303.0,PG,20000000.0,Leighton Meester,cell phone|hotel|misunderstanding|monte carlo|young woman
+1588334,3.0,0.0,True,"Jeff, Who Lives at Home",2011,Comedy|Drama,6.5,Jay Duplass,4244155.0,R,10000000.0,Judy Greer,basement|errand|secret admirer|slacker|wrong number
+1412386,3.0,0.0,True,The Best Exotic Marigold Hotel,2011,Comedy|Drama,7.3,John Madden,46377022.0,PG-13,10000000.0,Tom Wilkinson,hotel|india|marigold|retiree|retirement
+1259521,3.0,1.0,True,The Cabin in the Woods,2012,Fantasy|Horror|Mystery|Thriller,7.0,Drew Goddard,42043633.0,R,30000000.0,Chris Hemsworth,cabin in the woods|dark humor|hatchet|killed in an elevator|robot
+1634122,3.0,1.0,True,Johnny English Reborn,2011,Action|Adventure|Comedy|Crime,6.3,Oliver Parker,8129455.0,PG,45000000.0,Daniel Kaluuya,assassin|chinese|conspiracy|gadget|premier
+1899353,0.0,0.0,False,The Raid: Redemption,2011,Action|Crime|Thriller,7.6,Gareth Evans,4105123.0,R,1100000.0,Iko Uwais,apartment|drug lord|gangster|police|swat team
+1541995,3.0,0.0,True,Snow Flower and the Secret Fan,2011,Drama|History,6.1,Wayne Wang,1346503.0,PG-13,6000000.0,Bingbing Li,car hitting pedestrian|china|fan|nineteenth century|reversal of fortune
+1614989,1.0,0.0,False,Headhunters,2011,Crime|Drama|Thriller,7.6,Morten Tyldum,1196752.0,R,30300000.0,Aksel Hennie,art thief|male frontal nudity|male nudity|male star appears nude|painting
+1788391,3.0,1.0,True,Kill List,2011,Crime|Horror|Thriller,6.3,Ben Wheatley,26297.0,Not Rated,500000.0,MyAnna Buring,female full frontal nudity|hitman|knee breaking|male full frontal nudity|sniper
+1549572,3.0,0.0,True,Another Earth,2011,Drama|Romance|Sci-Fi,7.0,Mike Cahill,1316074.0,PG-13,100000.0,Robin Lord Taylor,duplicate earth|janitor|planet|solar system|synchronicity
+1571222,3.0,1.0,True,A Dangerous Method,2011,Biography|Drama|Thriller,6.5,David Cronenberg,5702083.0,R,15000000.0,Michael Fassbender,carl jung|patient|psychoanalysis|russian|sigmund freud
+1535616,3.0,0.0,True,The Divide,2011,Drama|Sci-Fi|Thriller,5.8,Xavier Gens,22000.0,R,3000000.0,Michael Biehn,doggystyle sex|rough sex|sodomy|torture|violent sex
+1723811,1.0,0.0,False,Shame,2011,Drama,7.3,Steve McQueen,4000304.0,NC-17,6500000.0,Michael Fassbender,female frontal nudity|female nudity|male nudity|sex addict|sex addiction
+1742336,3.0,0.0,True,Your Sister's Sister,2011,Comedy|Drama,6.7,Lynn Shelton,1573712.0,R,125000.0,Mark Duplass,drunken sex|mashed potatoes|pancakes|tequila|title directed by female
+1640459,0.0,0.0,False,Hobo with a Shotgun,2011,Action|Comedy|Thriller,6.1,Jason Eisener,703002.0,Not Rated,3000000.0,Gregory Smith,hobo|pedophile|rampage|shotgun|vigilante
+1594562,3.0,0.0,True,The Innkeepers,2011,Horror,5.5,Ti West,77501.0,R,750000.0,Lena Dunham,bathtub|dead body in a bathtub|dead body in bathtub|hotel|inn
+1640484,3.0,0.0,True,Jumping the Broom,2011,Comedy|Drama,5.7,Salim Akil,37295394.0,PG-13,6600000.0,Gary Dourdan,martha's vineyard|mother|older woman younger man relationship|wedding|weekend
+1657507,1.0,0.0,False,Colombiana,2011,Action|Crime|Drama|Thriller,6.4,Olivier Megaton,36665854.0,PG-13,40000000.0,Jordi Mollà,female in a shower|female nudity|premarital sex|sex scene|woman wearing a miniskirt
+1410063,3.0,0.0,True,The Flowers of War,2011,Drama|History|Romance|War,7.6,Yimou Zhang,9213.0,R,94000000.0,Christian Bale,abusive stepfather|attempted rape|food shortage|sexual abuse|starving child
+1598822,3.0,0.0,True,New Year's Eve,2011,Comedy|Romance,5.7,Garry Marshall,54540525.0,PG-13,56000000.0,Robert De Niro,expecting|kiss|new year|new year's eve|singer
+1714210,1.0,0.0,False,Weekend,2011,Drama|Romance,7.7,Andrew Haigh,469947.0,Not Rated,120000.0,Tom Cullen,coming out|fellatio|male in bathtub|male nudity|nudity
+1430607,1.0,0.0,False,Arthur Christmas,2011,Adventure|Animation|Comedy|Family|Fantasy,7.1,Sarah Smith,46440491.0,PG,100000000.0,Jim Broadbent,christmas|christmas eve|elf|high tech|resentment
+1305591,3.0,1.0,True,Mars Needs Moms,2011,Action|Adventure|Animation|Comedy|Family|Sci-Fi,5.4,Simon Wells,21379315.0,PG,150000000.0,Elisabeth Harnois,boy|martian|rescue|robot|sexism
+1630036,3.0,1.0,True,Courageous,2011,Drama,7.0,Alex Kendrick,34522221.0,PG-13,2000000.0,Ben Davies,faith|fatherhood|integrity|police|responsibility
+1488555,1.0,0.0,False,The Change-Up,2011,Comedy|Fantasy,6.4,David Dobkin,37035845.0,R,52000000.0,Ryan Reynolds,best friend|fountain|law firm|lawyer|sex
+1726589,3.0,0.0,True,L!fe Happens,2011,Comedy,5.7,Kat Coiro,20186.0,R,930000.0,Justin Kirk,friendship|los angeles california|one night stand|roommate|single mother
+1767382,3.0,0.0,True,Silent House,2011,Drama|Horror|Mystery|Thriller,5.3,Chris Kentis,12555230.0,R,2000000.0,Eric Sheffer Stevens,bound and gagged|girl|haunted house|hearing noises|uninterrupted shot
+1604171,3.0,0.0,True,Prom,2011,Comedy|Drama,5.4,Joe Nussbaum,10106233.0,PG,8000000.0,Cameron Monaghan,decoration|father daughter relationship|high school|prom|teenager
+1742650,3.0,0.0,True,I Don't Know How She Does It,2011,Comedy|Romance,4.9,Douglas McGrath,9639242.0,PG-13,24000000.0,Olivia Munn,black comedy|delivery boy|dinner|gym|punishment
+1401152,1.0,0.0,False,Unknown,2011,Action|Mystery|Thriller,6.9,Jaume Collet-Serra,61094903.0,PG-13,30000000.0,Liam Neeson,agriculture|airport|amnesia|nurse|scientist
+1401152,1.0,0.0,False,Unknown,2011,Action|Mystery|Thriller,6.9,Jaume Collet-Serra,61094903.0,PG-13,30000000.0,Liam Neeson,agriculture|airport|amnesia|nurse|scientist
+1563738,1.0,0.0,False,One Day,2011,Drama|Romance,7.0,Lone Scherfig,13766014.0,PG-13,15000000.0,Anne Hathaway,23 year time span|accidental death|best friend|loss of loved one|male female friendship
+1704573,1.0,0.0,False,Bernie,2011,Comedy|Crime|Drama,6.8,Richard Linklater,9203192.0,PG-13,5000000.0,Matthew McConaughey,funeral|stockbroker|texas|vacation|widow
+1600195,1.0,0.0,False,Abduction,2011,Action|Mystery|Thriller,5.0,John Singleton,28064226.0,PG-13,35000000.0,Ken Arnold,assassin|high school|on the run|teenager|website
+1578275,1.0,0.0,False,The Dilemma,2011,Comedy|Drama,5.3,Ron Howard,48430355.0,PG-13,70000000.0,Channing Tatum,best friend|friend|investigation|secret|two word title
+1560985,3.0,0.0,True,The Devil Inside,2012,Horror,4.2,William Brent Bell,53245055.0,R,1000000.0,Fernanda Andrade,critically bashed|demonic possession|exorcism|exorcist|found footage
+1496025,3.0,0.0,True,Underworld: Awakening,2012,Action|Fantasy|Horror,6.4,Måns Mårlind,62321039.0,R,70000000.0,Theo James,battle|cryogenics|detective|scientist|vampire
+1601913,0.0,0.0,False,The Grey,2011,Action|Adventure|Drama|Thriller,6.8,Joe Carnahan,51533608.0,R,25000000.0,Liam Neeson,alaska|leadership|snow|survival|wilderness
+1706593,1.0,0.0,False,Chronicle,2012,Drama|Sci-Fi|Thriller,7.1,Josh Trank,64572496.0,PG-13,12000000.0,Michael Kelly,found footage|high school|subjective camera|teen angst|troubled teen
+1596350,2.0,0.0,False,This Means War,2012,Action|Comedy|Romance,6.3,McG,54758461.0,PG-13,65000000.0,Tom Hardy,best friend|cia|cia agent|dating|undercover
+1430615,3.0,0.0,True,Big Miracle,2012,Biography|Drama|Romance,6.5,Ken Kwapis,20113965.0,PG,40000000.0,Ted Danson,arctic circle|reporter|small town|volunteer|whale
+1596365,1.0,0.0,False,The Woman in Black,2012,Drama|Fantasy|Horror|Thriller,6.4,James Watkins,54322273.0,PG-13,17000000.0,Daniel Radcliffe,afterlife|baby boy|bird in a cage|ghost|reunited family
+1606389,3.0,0.0,True,The Vow,2012,Drama|Romance,6.8,Michael Sucsy,125014030.0,PG-13,30000000.0,Channing Tatum,car accident|life support|memory loss|trauma|voice recording
+1392170,3.0,0.0,True,The Hunger Games,2012,Adventure|Drama|Sci-Fi|Thriller,7.3,Gary Ross,407999255.0,PG-13,78000000.0,Jennifer Lawrence,fight to the death|game|massacre|self survival|suicide attempt
+1646987,1.0,0.0,False,Wrath of the Titans,2012,Action|Adventure|Fantasy,5.8,Jonathan Liebesman,83640426.0,PG-13,150000000.0,Liam Neeson,ares|hades|titan|underworld|zeus
+1667353,3.0,1.0,True,Mirror Mirror,2012,Adventure|Comedy|Drama|Family|Fantasy,5.6,Tarsem Singh,64933670.0,PG,85000000.0,Julia Roberts,kingdom|prince|princess|queen|snow
+1430626,1.0,0.0,False,The Pirates! Band of Misfits,2012,Adventure|Animation|Comedy|Family,6.7,Peter Lord,31051126.0,PG,55000000.0,Salma Hayek,charles darwin|cutlass|pirate|queen victoria|scientist
+1915581,3.0,0.0,True,Magic Mike,2012,Comedy|Drama,6.1,Steven Soderbergh,113709992.0,R,7000000.0,Channing Tatum,bank|male nudity|male objectification|male stripper|stripper
+1440129,1.0,0.0,False,Battleship,2012,Action|Adventure|Sci-Fi|Thriller,5.9,Peter Berg,65173160.0,PG-13,209000000.0,Liam Neeson,box office flop|hawaii|naval|oahu hawaii|ship
+1195478,3.0,0.0,True,The Five-Year Engagement,2012,Comedy|Romance,6.2,Nicholas Stoller,28644770.0,R,30000000.0,Alison Brie,kissing while having sex|kitchen|reference to princess diana|wedding band|wedding ring
+1586265,3.0,0.0,True,What to Expect When You're Expecting,2012,Comedy|Drama|Romance,5.7,Kirk Jones,41102171.0,PG-13,40000000.0,Anna Kendrick,baby|expecting twins|hawaiian shirt|photographer|pregnancy
+1277953,2.0,1.0,False,Madagascar 3: Europe's Most Wanted,2012,Adventure|Animation|Comedy|Family,6.9,Eric Darnell,216366733.0,PG,145000000.0,Jada Pinkett Smith,animal|circus|island name in title|lemur|penguin
+1047540,3.0,0.0,True,Parental Guidance,2012,Comedy|Family,6.1,Andy Fickman,77264926.0,PG,25000000.0,Bailee Madison,chores|father figure|helicopter parents|in laws|punishment
+1077368,3.0,0.0,True,Dark Shadows,2012,Comedy|Fantasy|Horror,6.2,Tim Burton,79711678.0,PG-13,100000000.0,Johnny Depp,camera shot of feet|cartoon on tv|female stockinged feet|female stockinged soles|foot closeup
+1486192,1.0,0.0,False,The Raven,2012,Crime|Mystery|Thriller,6.4,James McTeigue,16005978.0,R,26000000.0,Pam Ferris,mask|murder|newspaper|poem|serial killer
+1232200,1.0,0.0,False,That's My Boy,2012,Comedy,5.6,Sean Anders,36931089.0,R,70000000.0,Adam Sandler,argument|reference to vanilla ice|statutory rape|teacher student relationship|teacher student sex
+1409024,1.0,0.0,False,Men in Black 3,2012,Action|Adventure|Comedy|Family|Fantasy|Sci-Fi,6.8,Barry Sonnenfeld,179020854.0,PG-13,225000000.0,Will Smith,alien|criminal|m.i.b.|maximum security prison|prison
+1991245,1.0,0.0,False,Chernobyl Diaries,2012,Horror|Mystery|Sci-Fi|Thriller,5.0,Bradley Parker,18112929.0,R,1000000.0,Jesse McCartney,abandoned building|chernobyl disaster|exploration|tour guide|van
+1645170,1.0,0.0,False,The Dictator,2012,Comedy|Romance,6.4,Larry Charles,59617068.0,R,65000000.0,Sayed Badreya,dictator|hotel|oil|overalls|sunglasses
+1568338,1.0,0.0,False,Man on a Ledge,2012,Action|Crime|Thriller,6.6,Asger Leth,18600911.0,PG-13,42000000.0,Robert Clohessy,detective|diamond|hotel|police|rooftop
+1735898,3.0,0.0,True,Snow White and the Huntsman,2012,Action|Adventure|Drama|Fantasy,6.1,Rupert Sanders,155111815.0,PG-13,170000000.0,Chris Hemsworth,evil queen|fairy tale|magic|queen|snow white
+1446714,3.0,0.0,True,Prometheus,2012,Adventure|Mystery|Sci-Fi,7.0,Ridley Scott,126464904.0,R,130000000.0,Michael Fassbender,cave painting|medical scanner|planet|pregnant with an alien fetus|suspended animation
+1748122,3.0,0.0,True,Moonrise Kingdom,2012,Adventure|Comedy|Drama|Romance,7.8,Wes Anderson,45507053.0,PG-13,16000000.0,Bruce Willis,1960s|boy scouts|boy scouts camp|coming of age|young love
+1862079,3.0,0.0,True,Safety Not Guaranteed,2012,Comedy|Drama|Romance,7.0,Colin Trevorrow,4007792.0,R,750000.0,Mary Lynn Rajskub,classified ad|intern|magazine|time machine|time travel
+1336608,3.0,0.0,True,Rock of Ages,2012,Comedy|Drama|Musical|Romance,5.9,Adam Shankman,38509342.0,PG-13,75000000.0,James Martin Kelly,concert|love|music industry|panties|pole dancer
+1232829,2.0,0.0,False,21 Jump Street,2012,Action|Comedy|Crime,7.2,Phil Lord,138447667.0,R,42000000.0,Channing Tatum,narcotics|parody|police|remake|undercover cop
+1217209,3.0,0.0,True,Brave,2012,Adventure|Animation|Comedy|Family|Fantasy,7.2,Mark Andrews,237282182.0,PG,185000000.0,Kelly Macdonald,archery|coming of age|female warrior|princess|rebellious daughter
+1615065,3.0,0.0,True,Savages,2012,Crime|Drama|Thriller,6.5,Oliver Stone,47307550.0,R,45000000.0,Demián Bichir,arms tied overhead|damsel in distress|dea|marijuana|southern california
+2125435,3.0,1.0,True,Beasts of the Southern Wild,2012,Drama|Fantasy,7.3,Benh Zeitlin,12784397.0,PG-13,1800000.0,Quvenzhané Wallis,auroch|community|hospital|illness|six year old
+1637725,2.0,0.0,False,Ted,2012,Comedy|Fantasy,7.0,Seth MacFarlane,218628680.0,R,50000000.0,Mila Kunis,2010s|car accident|sex scene|teddy bear|testicle
+1859650,2.0,0.0,False,To Rome with Love,2012,Comedy|Romance,6.3,Woody Allen,16684352.0,R,17000000.0,Ornella Muti,architect|celebrity|prostitute|shower|tourist
+1345836,1.0,0.0,False,The Dark Knight Rises,2012,Action|Thriller,8.5,Christopher Nolan,448130642.0,PG-13,250000000.0,Tom Hardy,deception|imprisonment|lawlessness|police officer|terrorist plot
+1800741,3.0,0.0,True,Step Up Revolution,2012,Drama|Music|Romance,6.5,Scott Speer,35057332.0,PG-13,33000000.0,Ryan Guzman,3 dimensional|dance|dancer|dancing|flash mob
+1298649,2.0,0.0,False,The Watch,2012,Action|Comedy|Sci-Fi,5.7,Akiva Schaffer,34350553.0,R,68000000.0,Will Forte,alien|escape|manager|neighborhood watch|ohio
+1298649,2.0,0.0,False,The Watch,2012,Action|Comedy|Sci-Fi,5.7,Akiva Schaffer,34350553.0,R,68000000.0,Will Forte,alien|escape|manager|neighborhood watch|ohio
+1623288,3.0,0.0,True,ParaNorman,2012,Adventure|Animation|Comedy|Family|Fantasy,7.0,Chris Butler,55994557.0,PG,60000000.0,Anna Kendrick,curse|ghost|outcast|witch|zombie
+1194173,3.0,0.0,True,The Bourne Legacy,2012,Action|Adventure|Thriller,6.7,Tony Gilroy,113165635.0,PG-13,125000000.0,Jeremy Renner,assassin|cia|drone|pill|wolf
+1996264,3.0,0.0,True,"For a Good Time, Call...",2012,Comedy,6.0,Jamie Travis,1243961.0,R,850000.0,James Wolk,friend|friendship|gay|phone sex|sex
+1611224,3.0,1.0,True,Abraham Lincoln: Vampire Hunter,2012,Action|Fantasy|Horror,5.9,Timur Bekmambetov,37516013.0,R,69000000.0,Rufus Sewell,chopping down a tree|hanging upside down|shopkeeper|vampire|vampire hunter
+1971352,3.0,0.0,True,Compliance,2012,Biography|Crime|Drama|Thriller,6.4,Craig Zobel,318622.0,R,270000.0,Dreama Walker,authority|boss subordinate relationship|fast food restaurant|gullibility|telephone call
+1764651,3.0,0.0,True,The Expendables 2,2012,Action|Adventure|Thriller,6.7,Simon West,85017401.0,R,92000000.0,Jason Statham,church|hostage|mine|plutonium|revenge
+1462769,3.0,0.0,True,The Odd Life of Timothy Green,2012,Comedy|Drama|Family|Fantasy,6.6,Peter Hedges,51853450.0,PG,25000000.0,Jennifer Garner,dodgeball|portrait|soccer|soccer game|young love
+1726669,2.0,0.0,False,Killer Joe,2011,Crime|Drama|Romance|Thriller,6.7,William Friedkin,1987762.0,R,11000000.0,Matthew McConaughey,female nudity|female pubic hair|lingerie|neo noir|pubic hair
+1790886,1.0,0.0,False,The Campaign,2012,Comedy,6.2,Jay Roach,86897182.0,R,95000000.0,Will Ferrell,campaigning|congressman|north carolina|title at the end|u.s. congressman
+1547234,3.0,0.0,True,Premium Rush,2012,Action|Crime|Thriller,6.5,David Koepp,20275446.0,PG-13,35000000.0,Joseph Gordon-Levitt,chase|courier|delivery|envelope|police
+1990314,1.0,0.0,False,Robot & Frank,2012,Comedy|Crime|Drama|Sci-Fi,7.1,Jake Schreier,3325638.0,PG-13,2500000.0,Frank Langella,burglary|dementia|near future|robot|thief
+1840417,1.0,0.0,False,The Words,2012,Drama|Mystery|Romance|Thriller,7.1,Brian Klugman,11434867.0,PG-13,6000000.0,J.K. Simmons,american in paris|book|love|novel|writer
+1343727,3.0,0.0,True,Dredd,2012,Action|Sci-Fi,7.1,Pete Travis,13401683.0,R,35000000.0,Wood Harris,brutality|dark humor|female antagonist|female warrior|post apocalypse
+1343727,3.0,0.0,True,Dredd,2012,Action|Sci-Fi,7.1,Pete Travis,13401683.0,R,35000000.0,Wood Harris,brutality|dark humor|female antagonist|female warrior|post apocalypse
+1307068,1.0,0.0,False,Seeking a Friend for the End of the World,2012,Adventure|Comedy|Drama|Romance|Sci-Fi,6.7,Lorene Scafaria,6619173.0,R,10000000.0,Steve Carell,candle|end of the world|letter|record|road trip
+1855325,3.0,0.0,True,Resident Evil: Retribution,2012,Action|Horror|Sci-Fi|Thriller,5.4,Paul W.S. Anderson,42345531.0,R,65000000.0,Milla Jovovich,corporation|fight|rescue|umbrella|zombie
+1560747,1.0,0.0,False,The Master,2012,Drama,7.1,Paul Thomas Anderson,16377274.0,R,32000000.0,Mike Howard,drifter|past life regression|psychological testing|right hand man|scientology
+1276104,1.0,0.0,False,Looper,2012,Action|Crime|Drama|Sci-Fi|Thriller,7.4,Rian Johnson,66468315.0,R,30000000.0,Joseph Gordon-Levitt,chase|future|surprise ending|time loop|time travel
+1582507,3.0,0.0,True,House at the End of the Street,2012,Drama|Horror|Thriller,5.6,Mark Tonderai,31607598.0,PG-13,6900000.0,Jennifer Lawrence,brother sister relationship|death of sister|female protagonist|mother daughter relationship|murder
+1764234,0.0,0.0,False,Killing Them Softly,2012,Crime|Thriller,6.2,Andrew Dominik,14938570.0,R,15000000.0,Brad Pitt,exploding car|hit by a car|poker game|punched in the face|shot to death
+1981677,3.0,0.0,True,Pitch Perfect,2012,Comedy|Music|Romance,7.2,Jason Moore,64998368.0,PG-13,17000000.0,Anna Kendrick,a cappella|competition|dj|female protagonist|lesbian
+1142977,0.0,0.0,False,Frankenweenie,2012,Animation|Comedy|Family|Horror|Sci-Fi,7.0,Tim Burton,35287788.0,PG,39000000.0,Martin Landau,dog|life|remake by original director|science|stop motion animation
+1931533,1.0,0.0,False,Seven Psychopaths,2012,Comedy|Crime,7.2,Martin McDonagh,14989761.0,R,15000000.0,Abbie Cornish,dognapping|gangster|misfiring gun|screenwriter|shih tzu
+1922777,2.0,0.0,False,Sinister,2012,Horror|Mystery,6.8,Scott Derrickson,48056940.0,R,3000000.0,Danielle Kotch,book|found footage|research|snuff film|writer
+1371111,3.0,0.0,True,Cloud Atlas,2012,Drama|Sci-Fi,7.5,Tom Tykwer,27098580.0,R,102000000.0,Tom Hanks,composer|future|letter|nonlinear timeline|nursing home
+1535438,3.0,0.0,True,Hope Springs,2012,Comedy|Drama|Romance,6.3,David Frankel,63536011.0,PG-13,30000000.0,Meryl Streep,couple|intimacy|marriage|marriage counseling|middle age couple
+1074638,3.0,1.0,True,Skyfall,2012,Action|Adventure|Thriller,7.8,Sam Mendes,304360277.0,PG-13,200000000.0,Albert Finney,brawl|childhood home|computer cracker|intelligence agency|terrorist cell
+1074638,3.0,1.0,True,Skyfall,2012,Action|Adventure|Thriller,7.8,Sam Mendes,304360277.0,PG-13,200000000.0,Albert Finney,brawl|childhood home|computer cracker|intelligence agency|terrorist cell
+1024648,3.0,0.0,True,Argo,2012,Biography|Drama|History|Thriller,7.7,Ben Affleck,136019448.0,R,44500000.0,Clea DuVall,1970s|cia|f word|u.s. embassy|year 1979
+1772341,3.0,0.0,True,Wreck-It Ralph,2012,Adventure|Animation|Comedy|Family|Sci-Fi,7.8,Rich Moore,189412677.0,PG,165000000.0,Jack McBrayer,arcade|candy|glitch|king|medal
+1876451,3.0,0.0,True,Sparkle,2012,Drama|Music,5.7,Salim Akil,24397469.0,PG-13,17000000.0,Omari Hardwick,1960s|death|girl group|nightclub|sister
+1866249,2.0,0.0,False,The Sessions,2012,Biography|Comedy|Drama|Romance,7.2,Ben Lewin,5997134.0,R,1000000.0,W. Earl Brown,falling in love|iron lung|priest|sex surrogate|therapist
+1920849,3.0,0.0,True,Bachelorette,2012,Comedy|Romance,5.3,Leslye Headland,418268.0,R,3000000.0,Kirsten Dunst,bachelorette party|drug use|high school|overdose|wedding dress
+1790885,3.0,0.0,True,Zero Dark Thirty,2012,Drama|History|Thriller,7.4,Kathryn Bigelow,95720716.0,R,40000000.0,Jennifer Ehle,al qaeda|cia|interrogation|lie|navy seal
+1707386,3.0,0.0,True,Les Misérables,2012,Drama|Musical|Romance,7.6,Tom Hooper,148775460.0,PG-13,61000000.0,Hugh Jackman,barricade|innkeeper|parole|rebellion|student
+1673434,3.0,1.0,True,The Twilight Saga: Breaking Dawn - Part 2,2012,Adventure|Drama|Fantasy|Romance,5.5,Bill Condon,292298923.0,PG-13,120000000.0,Robert Pattinson,battle|friend|super strength|vampire|vision
+1673434,3.0,1.0,True,The Twilight Saga: Breaking Dawn - Part 2,2012,Adventure|Drama|Fantasy|Romance,5.5,Bill Condon,292298923.0,PG-13,120000000.0,Robert Pattinson,battle|friend|super strength|vampire|vision
+1446192,1.0,0.0,False,Rise of the Guardians,2012,Adventure|Animation|Family|Fantasy,7.3,Peter Ramsey,103400692.0,PG,145000000.0,Hugh Jackman,belief|box office hit|children|new york city|tooth
+1764183,2.0,0.0,False,Arbitrage,2012,Drama|Thriller,6.6,Nicholas Jarecki,7918283.0,R,12000000.0,Nate Parker,accidental death|dead woman|dead woman with eyes open|death of mistress|manager
+1758830,3.0,0.0,True,This Is 40,2012,Comedy,6.2,Judd Apatow,67523385.0,R,35000000.0,Charlyne Yi,40th birthday|aging|birthday|sex|viagra
+1602620,3.0,1.0,True,Amour,2012,Drama|Romance,7.9,Michael Haneke,225377.0,PG-13,8900000.0,Isabelle Huppert,aging|daughter|old couple|old love|stroke
+1397280,2.0,0.0,False,Taken 2,2012,Action|Crime|Thriller,6.3,Olivier Megaton,139852971.0,PG-13,45000000.0,Liam Neeson,albanian|revenge|revenge motive|teenage daughter|vacation
+1853728,1.0,0.0,False,Django Unchained,2012,Drama|Western,8.5,Quentin Tarantino,162804648.0,R,100000000.0,Leonardo DiCaprio,dynamite|historically inaccurate|ku klux klan|n word|slavery
+1045658,3.0,0.0,True,Silver Linings Playbook,2012,Comedy|Drama|Romance,7.8,David O. Russell,132088910.0,R,21000000.0,Jennifer Lawrence,adulterous wife|bipolar disorder|obsessive compulsive personality disorder|unhappy marriage|widow
+1441951,3.0,0.0,True,Quartet,2012,Comedy|Drama,6.8,Dustin Hoffman,18381787.0,PG-13,11000000.0,Luke Newberry,divorced couple|opera|reference to giuseppe verdi|retirement|senility
+1659337,3.0,0.0,True,The Perks of Being a Wallflower,2012,Drama|Romance,8.0,Stephen Chbosky,17738570.0,PG-13,13000000.0,Logan Lerman,coming of age|depression|gay|high school|mental illness
+1656190,1.0,1.0,False,Safe,2012,Action|Crime|Thriller,6.5,Boaz Yakin,17120019.0,R,30000000.0,Jason Statham,bodyguard|gang war|russian|russian mafia|triad
+2101441,3.0,0.0,True,Spring Breakers,2012,Crime|Drama,5.3,Harmony Korine,14123773.0,R,5000000.0,James Franco,kissing a dead body|repeated dialogue|sex in pool|spring break|twins
+1907668,3.0,1.0,True,Flight,2012,Drama|Thriller,7.3,Robert Zemeckis,93749203.0,R,31000000.0,Denzel Washington,airline|flight|flight attendant|lawyer|pilot
+1649419,2.0,1.0,False,The Impossible,2012,Drama|Thriller,7.6,J.A. Bayona,18996755.0,PG-13,45000000.0,Naomi Watts,christmas|resort|thailand|tourist|tsunami
+1308729,0.0,0.0,False,Bullet to the Head,2012,Action|Thriller,5.7,Walter Hill,9483821.0,R,55000000.0,Sylvester Stallone,bar|bullet|corruption|detective|lawyer
+1524137,3.0,0.0,True,Contraband,2012,Action|Crime|Drama|Thriller,6.5,Baltasar Kormákur,66489425.0,R,25000000.0,J.K. Simmons,cocaine|contraband|drug lord|prison|smuggling
+1817273,1.0,0.0,False,The Place Beyond the Pines,2012,Crime|Drama|Thriller,7.3,Derek Cianfrance,21383298.0,R,15000000.0,Ryan Gosling,bank|carnival|motorcycle|police|rookie cop
+2106476,2.0,0.0,False,The Hunt,2012,Drama,8.3,Thomas Vinterberg,610968.0,R,3800000.0,Thomas Bo Larsen,deer|gun|gunshot|hunt|kindergarten teacher
+1258972,1.0,0.0,False,The Man with the Iron Fists,2012,Action,5.4,RZA,15608545.0,R,15000000.0,Rick Yune,blacksmith|box office flop|chop socky|critically bashed|village
+1855401,0.0,0.0,False,Tim and Eric's Billion Dollar Movie,2012,Comedy,5.3,Tim Heidecker,200803.0,R,3000000.0,Michael Gross,film in film|man with glasses|reference to steven spielberg|self referential|shopping mall
+2097307,3.0,0.0,True,Hit and Run,2012,Action|Comedy|Romance,6.1,David Palmer,13746550.0,R,2000000.0,Bradley Cooper,gay cop|getaway driver|masturbation|penis|witness protection
+2109184,3.0,0.0,True,Paranormal Activity 4,2012,Horror,4.6,Henry Joost,53884821.0,R,5000000.0,Matt Shively,boy in a bathtub|demon|laptop computer|pulled underwater|walking in the dark
+1731697,3.0,0.0,True,The Lords of Salem,2012,Drama|Fantasy|Horror|Thriller,5.1,Rob Zombie,1163508.0,R,2500000.0,Sid Haig,blood|flashback|radio dj|radio station|vinyl
+1591479,0.0,0.0,False,Act of Valor,2012,Action|Adventure|Drama|Thriller|War,6.5,Mike McCoy,70011073.0,R,12000000.0,Alex Veadov,mission|navy seal|terrorist|torture|valor
+1621045,3.0,0.0,True,Think Like a Man,2012,Comedy|Romance,6.6,Tim Story,91547205.0,PG-13,12000000.0,Chris Brown,advice|black romance|hip hop|reading a book|sex scene
+1758575,3.0,0.0,True,Blue Like Jazz,2012,Comedy|Drama,6.0,Steve Taylor,594904.0,PG-13,1200000.0,Jason Marsden,church|college|color in title|philosophy|texas
+1816518,1.0,0.0,False,Ernest & Celestine,2012,Animation|Comedy|Crime|Drama|Family,7.9,Stéphane Aubier,71442.0,PG,9600000.0,Mackenzie Foy,bear|dentist|friendship|mouse|prejudice
+1855199,3.0,0.0,True,End of Watch,2012,Crime|Drama|Thriller,7.7,David Ayer,40983001.0,R,7000000.0,Jake Gyllenhaal,lapd|police|police officer|south central los angeles|street gang
+1327194,3.0,0.0,True,The Lucky One,2012,Drama|Romance,6.5,Scott Hicks,60443237.0,PG-13,25000000.0,Blythe Danner,arrogance|child in peril|disarming someone|kennel|post traumatic stress disorder
+1694020,3.0,1.0,True,The Guilt Trip,2012,Comedy|Drama,5.8,Anne Fletcher,37101011.0,PG-13,40000000.0,Miriam Margolyes,cross country|love|mother son relationship|on the road|trip
+1935902,3.0,0.0,True,The Brass Teapot,2012,Comedy|Fantasy|Thriller,6.4,Ramaa Mosley,6643.0,R,900000.0,Jack McBrayer,mini dress|mini skirt|money|voyeur|voyeurism
+1545106,3.0,0.0,True,Vamps,2012,Comedy|Horror|Romance,5.1,Amy Heckerling,2964.0,PG-13,16000000.0,Taylor Negron,murder|new york city|one word title|vampire|vampire slayer
+1636826,1.0,0.0,False,Project X,2012,Comedy|Crime,6.7,Nima Nourizadeh,54724272.0,R,12000000.0,Dax Flame,birthday party|high school|high school senior|millennial generation|party
+2023453,3.0,0.0,True,Diary of a Wimpy Kid: Dog Days,2012,Comedy|Family,6.4,David Bowers,49002815.0,PG,22000000.0,Zachary Gordon,best friend|camping|country club|no opening credits|summer vacation
+1397514,1.0,0.0,False,Journey 2: The Mysterious Island,2012,Action|Adventure|Comedy|Family|Fantasy|Sci-Fi,5.8,Brad Peyton,103812241.0,PG,79000000.0,Josh Hutcherson,gold|hurricane|island|mountain|mysterious island
+1667889,2.0,0.0,False,Ice Age: Continental Drift,2012,Adventure|Animation|Comedy|Family,6.6,Steve Martino,161317423.0,PG,95000000.0,Peter Dinklage,acorn|herd|iceberg|ocean|pirate
+1321870,1.0,0.0,False,Gangster Squad,2013,Action|Crime|Drama|Thriller,6.7,Ruben Fleischer,45996718.0,R,60000000.0,Ryan Gosling,good versus evil|machine gun|mobster|police vigilantism|year 1949
+2023587,3.0,0.0,True,Mama,2013,Fantasy|Horror,6.2,Andrés Muschietti,71588220.0,PG-13,20000000.0,Javier Botet,aunt|children|death of sister|forest|hiding in a closet
+1428538,3.0,0.0,True,Hansel & Gretel: Witch Hunters,2013,Action|Fantasy|Horror,6.1,Tommy Wirkola,55682070.0,R,50000000.0,Jeremy Renner,bounty hunter|brother sister team|death of loved one|hansel and gretel|supernatural power
+1588173,2.0,0.0,False,Warm Bodies,2013,Comedy|Horror|Romance,6.9,Jonathan Levine,66359959.0,PG-13,35000000.0,Cory Hardrict,fight|memory|teenager|undead|zombie
+2024432,2.0,0.0,False,Identity Thief,2013,Comedy|Crime,5.7,Seth Gordon,134455175.0,R,35000000.0,Jon Favreau,bounty hunter|credit card|cross country|identity|police
+1702439,3.0,0.0,True,Safe Haven,2013,Drama|Romance|Thriller,6.7,Lasse Hallström,71346930.0,PG-13,28000000.0,David Lyons,abusive husband|chick flick|north carolina|secret|widower
+2053463,3.0,0.0,True,Side Effects,2013,Crime|Drama|Thriller,7.1,Steven Soderbergh,32154410.0,R,30000000.0,Channing Tatum,clinical trial|female protagonist|neuropharmacology|psychiatrist|side effect
+2053463,3.0,0.0,True,Side Effects,2013,Crime|Drama|Thriller,7.1,Steven Soderbergh,32154410.0,R,30000000.0,Channing Tatum,clinical trial|female protagonist|neuropharmacology|psychiatrist|side effect
+1559547,3.0,0.0,True,Beautiful Creatures,2013,Drama|Fantasy|Romance,6.2,Richard LaGravenese,19445217.0,PG-13,60000000.0,Alden Ehrenreich,dream|escape|magic|magic spell|small town
+1939659,3.0,0.0,True,Carrie,2013,Drama|Fantasy|Horror,5.9,Kimberly Peirce,35266619.0,R,30000000.0,Chloë Grace Moretz,outcast|prom|self injury|telekinesis|tragic event
+1939659,3.0,0.0,True,Carrie,2013,Drama|Fantasy|Horror,5.9,Kimberly Peirce,35266619.0,R,30000000.0,Chloë Grace Moretz,outcast|prom|self injury|telekinesis|tragic event
+1351685,0.0,0.0,False,Jack the Giant Slayer,2013,Adventure|Fantasy,6.3,Bryan Singer,65171860.0,PG-13,195000000.0,Eddie Marsan,bean|giant|king|no opening credits|princess
+1623205,3.0,0.0,True,Oz the Great and Powerful,2013,Adventure|Family|Fantasy,6.4,Sam Raimi,234903076.0,PG,215000000.0,Tim Holmes,circus|magic|magician|oz|witch
+1623205,3.0,0.0,True,Oz the Great and Powerful,2013,Adventure|Family|Fantasy,6.4,Sam Raimi,234903076.0,PG,215000000.0,Tim Holmes,circus|magic|magician|oz|witch
+2101341,3.0,1.0,True,Dead Man Down,2013,Action|Crime|Drama|Thriller,6.5,Niels Arden Oplev,10880926.0,R,30000000.0,Dominic Cooper,crime lord|dead body|dead body in a freezer|new york city|truck explosion
+1814621,3.0,0.0,True,Admission,2013,Comedy|Drama|Romance,5.7,Paul Weitz,18004225.0,PG-13,13000000.0,Tina Fey,adoption|female protagonist|princeton university|wedding|working women
+1869716,3.0,0.0,True,The East,2013,Drama|Thriller,6.9,Zal Batmanglij,2268296.0,PG-13,6500000.0,Alexander Skarsgård,anarchist|corporation|greedy institution|vomiting|watching television
+1583421,3.0,0.0,True,G.I. Joe: Retaliation,2013,Action|Adventure|Sci-Fi|Thriller,5.8,Jon M. Chu,122512052.0,PG-13,130000000.0,Channing Tatum,general|gi joe|martial arts|ninja|president
+2302755,1.0,0.0,False,Olympus Has Fallen,2013,Action|Thriller,6.5,Antoine Fuqua,98895417.0,R,70000000.0,Gerard Butler,political thriller|politics|president|speaker of the house|u.s. president
+1517260,3.0,1.0,True,The Host,2013,Action|Adventure|Romance|Sci-Fi|Thriller,5.9,Andrew Niccol,26616999.0,PG-13,40000000.0,J.D. Evermore,alien|alien creature|body snatching|desert|parasite
+1288558,3.0,0.0,True,Evil Dead,2013,Horror,6.5,Fede Alvarez,54239856.0,R,17000000.0,Lou Taylor Pucci,book of the dead|demon|h.p. lovecraft|lesbian kiss|promise
+1924429,0.0,1.0,False,Trance,2013,Crime|Drama|Mystery|Thriller,7.0,Danny Boyle,2319187.0,R,20000000.0,Rosario Dawson,amnesia|criminal|heist|hypnotherapy|lost painting
+1924429,0.0,1.0,False,Trance,2013,Crime|Drama|Mystery|Thriller,7.0,Danny Boyle,2319187.0,R,20000000.0,Rosario Dawson,amnesia|criminal|heist|hypnotherapy|lost painting
+1911644,3.0,0.0,True,The Call,2013,Crime|Thriller,6.7,Brad Anderson,51872378.0,R,13000000.0,Michael Imperioli,911 operator|calling 911|die hard scenario|head held underwater|white villain
+1483013,3.0,0.0,True,Oblivion,2013,Action|Adventure|Mystery|Sci-Fi,7.0,Joseph Kosinski,89021735.0,PG-13,120000000.0,Morgan Freeman,cabin in the woods|drone|flying through a thunderstorm|post apocalypse|sex in a pool
+1300854,3.0,1.0,True,Iron Man 3,2013,Action|Adventure|Sci-Fi,7.2,Shane Black,408992272.0,PG-13,200000000.0,Robert Downey Jr.,armor|explosion|human bomb|missile attack|terrorist
+1935179,1.0,0.0,False,Mud,2012,Drama,7.4,Jeff Nichols,21589307.0,PG-13,10000000.0,Matthew McConaughey,14 year old|boat|bounty hunter|boy|river
+1408101,1.0,0.0,False,Star Trek Into Darkness,2013,Action|Adventure|Sci-Fi,7.8,J.J. Abrams,228756232.0,PG-13,190000000.0,Benedict Cumberbatch,admiral|captain|manhunt|mission|space
+2034139,3.0,0.0,True,The Last Exorcism Part II,2013,Drama|Horror|Thriller,4.0,Ed Gass-Donnelly,15152879.0,PG-13,5000000.0,Muse Watson,car fire|evil|hospital|hotel|prophecy
+1343092,3.0,1.0,True,The Great Gatsby,2013,Drama|Romance,7.3,Baz Luhrmann,144812796.0,PG-13,105000000.0,Leonardo DiCaprio,ingratitude|mansion|party|title appears in writing|tragedy
+1343092,3.0,1.0,True,The Great Gatsby,2013,Drama|Romance,7.3,Baz Luhrmann,144812796.0,PG-13,105000000.0,Leonardo DiCaprio,ingratitude|mansion|party|title appears in writing|tragedy
+1572315,3.0,0.0,True,Texas Chainsaw 3D,2013,Horror|Thriller,4.8,John Luessenhop,34334256.0,R,11000000.0,Gunnar Hansen,chainsaw|halloween|mansion|massacre|texas
+1931435,3.0,0.0,True,The Big Wedding,2013,Comedy,5.6,Justin Zackham,21784432.0,R,35000000.0,Robin Williams,adoption|divorce|family relationships|farce|wedding
+1462900,1.0,0.0,False,The Grandmaster,2013,Action|Biography|Drama,6.5,Kar-Wai Wong,6594136.0,PG-13,38600000.0,Tony Chiu Wai Leung,challenge|china|hong kong|martial arts|martial arts master
+1904996,3.0,0.0,True,Parker,2013,Action|Crime|Romance|Thriller,6.2,Taylor Hackford,17609982.0,R,35000000.0,Jason Statham,action hero|disguise|hospital|real estate agent|thief
+1245492,1.0,0.0,False,This Is the End,2013,Comedy|Fantasy,6.7,Evan Goldberg,101470202.0,R,32000000.0,Channing Tatum,apocalypse|celebrity|ensemble cast|party|rapture
+1670345,1.0,0.0,False,Now You See Me,2013,Crime|Mystery|Thriller,7.3,Louis Leterrier,117698894.0,PG-13,75000000.0,Morgan Freeman,bank|fbi|heist|interpol|magician
+1815862,1.0,1.0,False,After Earth,2013,Action|Adventure|Sci-Fi,4.9,M. Night Shyamalan,60522097.0,PG-13,130000000.0,Will Smith,box office flop|father son team|fear|race against time|real life father and son playing father and son
+1711425,1.0,0.0,False,21 & Over,2013,Comedy,5.9,Jon Lucas,25675765.0,R,13000000.0,Justin Chon,21st birthday|college student|drunken man|pubic hair|standing up to father
+1980209,1.0,0.0,False,Pain & Gain,2013,Comedy|Crime|Drama,6.5,Michael Bay,49874933.0,R,26000000.0,Dwayne Johnson,american dream|bodybuilder|money|punch into the camera|reference to julia roberts
+2404463,3.0,0.0,True,The Heat,2013,Action|Comedy|Crime,6.6,Paul Feig,159578352.0,R,43000000.0,Michael Rapaport,drug lord|fbi|fbi agent|hospital|shot in the crotch
+1699755,3.0,1.0,True,Peeples,2013,Comedy|Romance,5.3,Tina Gordon Chism,9123834.0,PG-13,15000000.0,Tyler James Williams,african american
+2234155,1.0,0.0,False,The Internship,2013,Comedy,6.3,Shawn Levy,44665963.0,PG-13,58000000.0,Josh Gad,actor's picture shown in credits|animated credits|google|internship|still images in end credits
+2184339,3.0,1.0,True,The Purge,2013,Horror|Sci-Fi|Thriller,5.7,James DeMonaco,64423650.0,R,3000000.0,Rhys Wakefield,class differences|killing spree|one night|suburb|violence
+1453405,1.0,0.0,False,Monsters University,2013,Adventure|Animation|Comedy|Family|Fantasy,7.3,Dan Scanlon,268488329.0,G,200000000.0,Steve Buscemi,cheating|fraternity|monster|singing in a car|university
+2209418,3.0,0.0,True,Before Midnight,2013,Drama|Romance,7.9,Richard Linklater,8114507.0,R,3000000.0,Seamus Davey-Fitzpatrick,friend|greece|greek|hotel room|twin
+1210819,1.0,0.0,False,The Lone Ranger,2013,Action|Adventure|Western,6.5,Gore Verbinski,89289910.0,PG-13,215000000.0,Johnny Depp,horse|outlaw|texas|texas ranger|train
+1682180,3.0,0.0,True,Stoker,2013,Drama|Thriller,6.8,Chan-wook Park,1702277.0,R,12000000.0,Mia Wasikowska,death|hitchcockian|psychopath|sociopath|vomiting
+1690953,3.0,0.0,True,Despicable Me 2,2013,Animation|Comedy|Family|Sci-Fi,7.5,Pierre Coffin,368049635.0,PG,76000000.0,Steve Carell,dating|minion|overprotective father|undercover spy|woman agent
+2334879,2.0,0.0,False,White House Down,2013,Action|Drama|Thriller,6.4,Roland Emmerich,73103784.0,PG-13,150000000.0,Channing Tatum,black u.s. president|president|secret service|tour|white house
+1663662,1.0,0.0,False,Pacific Rim,2013,Action|Adventure|Sci-Fi,7.0,Guillermo del Toro,101785482.0,PG-13,190000000.0,Charlie Hunnam,giant monster|kaiju|pilot|portal|robot
+1602613,3.0,0.0,True,Only God Forgives,2013,Crime|Drama,5.7,Nicolas Winding Refn,778565.0,R,4800000.0,Ryan Gosling,brutal cop|drug dealer|punishment|thai boxing|vengeance
+1457767,3.0,0.0,True,The Conjuring,2013,Horror|Mystery|Thriller,7.5,James Wan,137387272.0,R,20000000.0,Mackenzie Foy,based on true story|farmhouse|paranormal investigator|rhode island|supernatural power
+1860353,3.0,1.0,True,Turbo,2013,Adventure|Animation|Comedy|Family|Sport,6.5,David Soren,83024900.0,PG,135000000.0,Ryan Reynolds,accident|freak accident|race|snail|underdog
+1430132,3.0,0.0,True,The Wolverine,2013,Action|Adventure|Sci-Fi|Thriller,6.7,James Mangold,132550960.0,PG-13,120000000.0,Hugh Jackman,healing power|marvel comics|mecha|regeneration|self healing
+1821694,3.0,0.0,True,RED 2,2013,Action|Comedy|Crime|Thriller,6.7,Dean Parisot,53215979.0,PG-13,84000000.0,Bruce Willis,cia|cia agent|rescue|russian|team
+1213663,2.0,0.0,False,The World's End,2013,Action|Comedy|Sci-Fi,7.0,Edgar Wright,26003149.0,R,20000000.0,Michael Smiley,alcoholic|doppelganger|group therapy|self mutilation|twin actresses for twin sisters
+2017020,3.0,0.0,True,The Smurfs 2,2013,Adventure|Animation|Comedy|Family|Fantasy,5.4,Raja Gosnell,71017784.0,PG,105000000.0,Jacob Tremblay,based on cartoon|box office hit|no opening credits|sequel|smurf
+2191701,2.0,0.0,False,Grown Ups 2,2013,Comedy,5.4,Dennis Dugan,133668525.0,PG-13,80000000.0,Steve Buscemi,belching|number in title|party|reference to nicki minaj|sneezing
+1727388,3.0,0.0,True,The Way Way Back,2013,Comedy|Drama,7.4,Nat Faxon,21501098.0,PG-13,5000000.0,Steve Carell,awkward boy|shy kid|summer|vacation|water park
+1758795,3.0,0.0,True,The To Do List,2013,Comedy|Romance,5.8,Maggie Carey,3447339.0,R,1500000.0,Donald Glover,feces in a swimming pool|female vomiting|high school|lifeguard|male objectification
+2334873,3.0,0.0,True,Blue Jasmine,2013,Drama,7.3,Woody Allen,33404871.0,PG-13,18000000.0,Sally Hawkins,congenital liar|mental breakdown|self deception|snob|talking to oneself
+2334649,3.0,1.0,True,Fruitvale Station,2013,Biography|Drama|Romance,7.5,Ryan Coogler,16097842.0,R,900000.0,Ahna O'Reilly,22 year old|b.a.r.t.|bay area|birthday|police
+1272878,1.0,0.0,False,2 Guns,2013,Action|Comedy|Crime|Drama|Thriller,6.7,Baltasar Kormákur,75573300.0,R,61000000.0,Denzel Washington,close up of breasts|female nudity|fugitive|money|undercover
+2396566,3.0,0.0,True,20 Feet from Stardom,2013,Documentary|Music,7.4,Morgan Neville,4946250.0,PG-13,1000000.0,Sheryl Crow,backup singer|band|bechdel test passed|concert footage|singer
+1535108,3.0,0.0,True,Elysium,2013,Action|Drama|Sci-Fi|Thriller,6.6,Neill Blomkamp,93050117.0,R,115000000.0,Matt Damon,christ figure|class differences|messiah|saviour|social commentary
+1650554,3.0,0.0,True,Kick-Ass 2,2013,Action|Comedy|Crime,6.6,Jeff Wadlow,28751715.0,R,28000000.0,Chloë Grace Moretz,hit in the crotch|kicked in the crotch|punched in the crotch|sparring|superhero
+1538403,3.0,0.0,True,The Mortal Instruments: City of Bones,2013,Fantasy|Horror|Mystery|Romance,6.0,Harald Zwart,31165421.0,PG-13,60000000.0,Aidan Turner,battle|demon|magic|secret|warrior
+1723121,3.0,0.0,True,We're the Millers,2013,Comedy|Crime,7.0,Rawson Marshall Thurber,150368971.0,R,37000000.0,Laura-Leigh,fake family|male frontal nudity|marijuana|mexico|stripper
+1327773,3.0,0.0,True,Lee Daniels' The Butler,2013,Biography|Drama,7.2,Lee Daniels,116631310.0,PG-13,30000000.0,Alex Pettyfer,butler|civil rights|hotel|president|white house
+1411250,0.0,0.0,False,Riddick,2013,Action|Sci-Fi|Thriller,6.4,David Twohy,41997790.0,R,38000000.0,Vin Diesel,alien|left for dead|mercenary|survival|vomiting
+2229499,3.0,1.0,True,Don Jon,2013,Comedy|Drama|Romance,6.6,Joseph Gordon-Levitt,24475193.0,R,3000000.0,Joseph Gordon-Levitt,camera focus on female butt|cunnilingus|new jersey|oral sex|reference to facebook
+1392214,3.0,0.0,True,Prisoners,2013,Crime|Drama|Mystery|Thriller,8.1,Denis Villeneuve,60962878.0,R,46000000.0,Hugh Jackman,child abduction|detective|investigation|police|sex offender
+2002718,3.0,0.0,True,Machete Kills,2013,Action|Comedy|Crime|Thriller,5.6,Robert Rodriguez,7268659.0,R,20000000.0,Alexa PenaVega,arms dealer|battle|bomb|machete|missile
+2378281,3.0,1.0,True,Instructions Not Included,2013,Comedy|Drama,7.6,Eugenio Derbez,44456509.0,PG-13,5000000.0,Eugenio Derbez,father daughter relationship
+2364841,0.0,0.0,False,Runner Runner,2013,Crime|Thriller,5.6,Brad Furman,19316646.0,R,30000000.0,Justin Timberlake,costa rica|fbi agent|gambling|money|online gambling
+1454468,0.0,0.0,False,Gravity,2013,Adventure|Drama|Sci-Fi|Thriller,7.8,Alfonso Cuarón,274084951.0,PG-13,100000000.0,Phaldut Sharma,box office hit|long take|sole survivor|space|space station
+1821549,3.0,0.0,True,Nebraska,2013,Adventure|Comedy|Drama,7.8,Alexander Payne,17613460.0,R,12000000.0,Devin Ratray,aging|billings montana|lincoln nebraska|nebraska|pickup truck
+1171222,3.0,0.0,True,Baggage Claim,2013,Comedy,5.0,David E. Talbert,21564616.0,PG-13,8500000.0,Djimon Hounsou,woman wearing only a man's shirt
+1535109,1.0,0.0,False,Captain Phillips,2013,Biography|Drama|Thriller,7.9,Paul Greengrass,107100855.0,PG-13,55000000.0,Tom Hanks,hijacking|hostage|leader|ship|somalia
+1211956,2.0,1.0,False,Escape Plan,2013,Action|Crime|Mystery|Sci-Fi|Thriller,6.7,Mikael Håfström,25121291.0,R,50000000.0,Sylvester Stallone,cia agent|escape|muslim|prison|ship
+2194499,3.0,0.0,True,About Time,2013,Drama|Fantasy|Romance,7.8,Richard Curtis,15294553.0,R,12000000.0,Tom Hughes,boyfriend girlfriend relationship|lingerie slip|time travel|time travel romance|wedding
+1837703,1.0,0.0,False,The Fifth Estate,2013,Biography|Drama|Thriller,6.2,Bill Condon,3254172.0,R,28000000.0,Benedict Cumberbatch,computer hacker|internet|news leak|whistleblowing|wikileaks
+2193215,3.0,0.0,True,The Counselor,2013,Crime|Drama|Thriller,5.3,Ridley Scott,16969390.0,R,25000000.0,Michael Fassbender,cunnilingus|drug trafficking|lawyer|no panties|shootout
+1731141,2.0,1.0,False,Ender's Game,2013,Action|Sci-Fi,6.7,Gavin Hood,61656849.0,PG-13,110000000.0,Harrison Ford,alien|future|manipulation|simulation|training
+1981115,3.0,0.0,True,Thor: The Dark World,2013,Action|Adventure|Fantasy,7.1,Alan Taylor,206360018.0,PG-13,170000000.0,Chris Hemsworth,arrest|portal|thor|warrior|weapon
+2017038,0.0,0.0,False,All Is Lost,2013,Action|Adventure|Drama,6.9,J.C. Chandor,6262942.0,PG-13,9000000.0,Robert Redford,boat|container|sea|shipping container|storm
+2390361,3.0,0.0,True,Enough Said,2013,Comedy|Drama|Romance,7.1,Nicole Holofcener,17536788.0,PG-13,8000000.0,Christopher Nicholas Smith,dating|divorcee|ex husband|ex wife|party
+2103267,3.0,0.0,True,Adore,2013,Drama|Romance,6.2,Anne Fontaine,317125.0,R,16000000.0,Robin Wright,beach|friend|friendship|happiness|neighbor
+2042568,1.0,0.0,False,Inside Llewyn Davis,2013,Drama|Music,7.4,Ethan Coen,13214255.0,R,11000000.0,Justin Timberlake,1960s|car hitting an animal|folk singer|friend|singer
+1951264,3.0,0.0,True,The Hunger Games: Catching Fire,2013,Adventure|Sci-Fi|Thriller,7.6,Francis Lawrence,424645577.0,PG-13,130000000.0,Jennifer Lawrence,president|snow|television|tour|uprising
+2350496,3.0,0.0,True,The Lunchbox,2013,Drama|Romance,7.8,Ritesh Batra,4231500.0,PG,1000000.0,Nawazuddin Siddiqui,delivery|delivery to wrong address|lunchbox|open ended|unconventional romance
+2294629,3.0,0.0,True,Frozen,2013,Adventure|Animation|Comedy|Family|Fantasy|Musical,7.6,Chris Buck,400736600.0,PG,150000000.0,Josh Gad,magic|sister love|sister sister relationship|snow|snowman
+1798709,2.0,0.0,False,Her,2013,Drama|Romance|Sci-Fi,8.0,Spike Jonze,25556065.0,R,23000000.0,Scarlett Johansson,divorce|female frontal nudity|future|loneliness|operating system
+2431286,3.0,0.0,True,Philomena,2013,Biography|Drama,7.6,Stephen Frears,37707719.0,PG-13,12000000.0,Steve Coogan,catholic|convent|gay love|gay relationship|irish adoption board
+2226417,2.0,0.0,False,Insidious: Chapter 2,2013,Fantasy|Horror|Thriller,6.6,James Wan,83574831.0,PG-13,5000000.0,Lin Shaye,barricading a door|injection in leg|police detective|supernatural|taser
+1322269,3.0,0.0,True,August: Osage County,2013,Drama,7.3,John Wells,37738400.0,R,25000000.0,Benedict Cumberbatch,based on play|incestuous relationship|pedophilia|secret|teenage daughter
+1854564,3.0,0.0,True,Percy Jackson: Sea of Monsters,2013,Adventure|Family|Fantasy,5.9,Thor Freudenthal,68558662.0,PG,90000000.0,Logan Lerman,golden fleece|half brother|magical tree|sea|tree
+1206543,1.0,0.0,False,Out of the Furnace,2013,Crime|Drama|Thriller,6.8,Scott Cooper,11326836.0,R,22000000.0,Christian Bale,ambiguous ending|brother brother relationship|drug dealer|fight club|revenge
+1800241,3.0,0.0,True,American Hustle,2013,Crime|Drama,7.3,David O. Russell,150117807.0,R,40000000.0,Jennifer Lawrence,based on true story|con artist|drunk wife|fbi investigation|scam
+1170358,3.0,0.0,True,The Hobbit: The Desolation of Smaug,2013,Adventure|Fantasy,7.9,Peter Jackson,258355354.0,PG-13,225000000.0,Aidan Turner,dwarf|elf|lake town|mountain|sword and sorcery
+2140373,3.0,0.0,True,Saving Mr. Banks,2013,Biography|Comedy|Drama|History|Music,7.5,John Lee Hancock,83299761.0,PG-13,35000000.0,Tom Hanks,author|disney|loss of father|reference to walt disney|suppression of emotion
+1606378,1.0,0.0,False,A Good Day to Die Hard,2013,Action|Thriller,5.3,John Moore,67344392.0,R,92000000.0,Bruce Willis,bomb|cia|courthouse|escape|russian
+1335975,2.0,0.0,False,47 Ronin,2013,Action|Adventure|Drama|Fantasy,6.3,Carl Rinsch,38297305.0,PG-13,175000000.0,Keanu Reeves,box office flop|ronin|samurai|shogun|tournament
+2304771,1.0,0.0,False,Mandela: Long Walk to Freedom,2013,Biography|Drama|History,7.1,Justin Chadwick,8324748.0,PG-13,35000000.0,Terry Pheto,africa|apartheid|nelson mandela|president|resistance
+2024544,3.0,0.0,True,12 Years a Slave,2013,Biography|Drama|History,8.1,Steve McQueen,56667870.0,R,20000000.0,Quvenzhané Wallis,racism|separation from family|social injustice|torture|whipping
+1979320,1.0,0.0,False,Rush,2013,Action|Biography|Drama|Sport,8.1,Ron Howard,26903709.0,R,38000000.0,Chris Hemsworth,1970s|female rear nudity|formula 1|rivalry|sex with a nurse
+2058107,0.0,0.0,False,The Railway Man,2013,Biography|Drama|Romance|War,7.1,Jonathan Teplitzky,4435083.0,R,18000000.0,Jeremy Irvine,japanese soldier|physical torture|pow camp|prisoner of war|reference to adolf hitler
+1985966,3.0,0.0,True,Cloudy with a Chance of Meatballs 2,2013,Animation|Comedy|Family|Fantasy|Sci-Fi,6.5,Cody Cameron,119793567.0,PG,78000000.0,Will Forte,food|inventor|island|orangutan|scientist
+1204975,1.0,0.0,False,Last Vegas,2013,Comedy|Romance,6.6,Jon Turteltaub,63910583.0,PG-13,28000000.0,Robert De Niro,bachelor party|bloody mary the drink|bouncer|brooklyn new york city|vegas
+2083355,3.0,0.0,True,The Best Man Holiday,2013,Comedy|Drama,6.7,Malcolm D. Lee,70492685.0,R,17000000.0,Harold Perrineau,childbirth|christmas|gay slur|infidelity|punched in the nose
+1706620,3.0,1.0,True,Snowpiercer,2013,Action|Drama|Sci-Fi|Thriller,7.0,Joon-ho Bong,4563029.0,R,39200000.0,Chris Evans,closed ecological system|perpetual winter|population control|revolt|train
+1229340,3.0,0.0,True,Anchorman 2: The Legend Continues,2013,Comedy,6.3,Adam McKay,2175312.0,PG-13,50000000.0,Harrison Ford,fame|father son relationship|interracial kiss|interracial relationship|interracial sex
+2170299,2.0,0.0,False,Bad Words,2013,Comedy|Drama,6.7,Jason Bateman,7764027.0,R,10000000.0,Beth Grant,directed by star|indian american|spelling|spelling bee|two word title
+1951181,3.0,0.0,True,The Immigrant,2013,Drama|Romance,6.6,James Gray,1984743.0,R,16000000.0,Jeremy Renner,immigrant|immigration|magician|money|prostitution
+1549920,1.0,0.0,False,The Last Stand,2013,Action|Crime|Thriller,6.4,Jee-woon Kim,12026670.0,R,45000000.0,Zach Gilford,deputy|escape|fbi|modern western|sheriff
+1981107,3.0,0.0,True,The Young and Prodigious T.S. Spivet,2013,Action|Adventure|Drama|Family,7.1,Jean-Pierre Jeunet,99462.0,PG,33000000.0,Callum Rennie,3 dimensional|cartographer|punctuation in title|smithsonian|train
+2312718,2.0,0.0,False,Homefront,2013,Action|Crime|Drama|Thriller,6.5,Gary Fleder,19783777.0,R,22000000.0,Jason Statham,biker|biker gang|dea|dea agent|fight
+2359024,3.0,0.0,True,Blue Ruin,2013,Crime|Drama|Thriller,7.1,Jeremy Saulnier,258113.0,R,1066167.0,Devin Ratray,blood splatter|car|neo noir|vengeance|vomiting
+1714206,2.0,0.0,False,The Spectacular Now,2013,Comedy|Drama|Romance,7.1,James Ponsoldt,6851969.0,R,2500000.0,Shailene Woodley,crying man|high school|high school senior|men's clothing store|party
+2358891,3.0,0.0,True,The Great Beauty,2013,Drama,7.7,Paolo Sorrentino,2835886.0,Not Rated,9200000.0,Toni Servillo,genitalia|male frontal nudity|male nudity|old age|party
+2389182,1.0,0.0,False,Cheap Thrills,2013,Comedy|Crime|Drama|Horror|Thriller,6.8,E.L. Katz,59379.0,Not Rated,200000.0,Brighton Sharbino,cocaine|extramarital affair|sex|shooting|violence
+1924396,1.0,0.0,False,The Best Offer,2013,Crime|Drama|Mystery|Romance,7.8,Giuseppe Tornatore,85433.0,R,13500000.0,Jim Sturgess,antique|art|heiress|older man younger woman relationship|plot twist
+2243537,3.0,1.0,True,A Haunted House,2013,Comedy|Fantasy,5.1,Michael Tiddes,40041683.0,R,2500000.0,Essence Atkins,hamburger|parody|priest|psychic|woman in a bikini
+1091191,0.0,0.0,False,Lone Survivor,2013,Action|Biography|Drama|Thriller|War,7.6,Peter Berg,125069696.0,R,40000000.0,Jerry Ferrara,courage|navy seal|outnumbered|shot multiple times|survival
+2387559,1.0,0.0,False,Delivery Man,2013,Comedy|Drama,6.4,Ken Scott,30659817.0,PG-13,26000000.0,Jack Reynor,children|identity|lawsuit|lawyer|sperm donor
+1043726,2.0,0.0,False,The Legend of Hercules,2014,Action|Adventure|Fantasy,4.2,Renny Harlin,18821279.0,PG-13,70000000.0,Roxanne McKee,ancient greece|forbidden love|hercules|king|slavery
+1205537,1.0,0.0,False,Jack Ryan: Shadow Recruit,2014,Action|Drama|Thriller,6.2,Kenneth Branagh,50549107.0,PG-13,60000000.0,Colm Feore,covert analyst|marine|russian|spy|stock market
+1408253,0.0,0.0,False,Ride Along,2014,Action|Comedy|Crime|Romance,6.2,Tim Story,134141530.0,PG-13,25000000.0,Bruce McGill,gunfight|outrunning explosion|police|security guard|street shootout
+1490017,3.0,0.0,True,The Lego Movie,2014,Action|Adventure|Animation|Comedy|Family|Fantasy,7.8,Phil Lord,257756197.0,PG,60000000.0,Morgan Freeman,based on toy|dual personality|evil businessman|good cop bad cop|lego
+2177771,0.0,0.0,False,The Monuments Men,2014,Drama|War,6.1,George Clooney,78031620.0,PG-13,70000000.0,Bill Murray,art|art expert|nazi stolen art|soldier|world war two
+1234721,2.0,0.0,False,RoboCop,2014,Action|Crime|Sci-Fi|Thriller,6.2,José Padilha,58607007.0,PG-13,100000000.0,Gary Oldman,law enforcement|police|robocop|robot|technology
+1234721,2.0,0.0,False,RoboCop,2014,Action|Crime|Sci-Fi|Thriller,6.2,José Padilha,58607007.0,PG-13,100000000.0,Gary Oldman,law enforcement|police|robocop|robot|technology
+2172934,3.0,0.0,True,3 Days to Kill,2014,Action|Drama|Thriller,6.2,McG,30688364.0,PG-13,28000000.0,Connie Nielsen,cancer|estranged wife|leather dress|spy|terrorist
+1921064,3.0,0.0,True,Pompeii,2014,Action|Adventure|Drama|History|Romance,5.6,Paul W.S. Anderson,23219748.0,PG-13,80000000.0,Sasha Roiz,arena|lava bomb|mount vesuvius|pompeii|slave
+1376213,1.0,0.0,False,The Adventurer: The Curse of the Midas Box,2013,Adventure|Family|Fantasy,5.4,Jonathan Newman,4756.0,PG,25000000.0,Ioan Gruffudd,based on novel|drowning|hanging from a flagpole|hanging from a rope|magic
+2024469,3.0,0.0,True,Non-Stop,2014,Action|Mystery|Thriller,7.0,Jaume Collet-Serra,91439400.0,PG-13,50000000.0,Liam Neeson,air marshal|death|passenger|terrorist|transatlantic flight
+1418377,1.0,0.0,False,"I, Frankenstein",2014,Action|Fantasy|Sci-Fi|Thriller,5.1,Stuart Beattie,19059018.0,PG-13,65000000.0,Caitlin Stasey,army|creature|demon|frankenstein|gargoyle
+2473682,2.0,1.0,False,Paranormal Activity: The Marked Ones,2014,Fantasy|Horror|Thriller,5.0,Christopher Landon,32453345.0,R,5000000.0,Richard Cabral,apartment|blood|demonic possession|neighbor|pentagram
+1837709,3.0,0.0,True,Winter's Tale,2014,Drama|Fantasy|Mystery|Romance,6.2,Akiva Goldsman,22451.0,PG-13,60000000.0,Matt Bomer,black and white photograph|drawing with blood|falling through ice|playing piano|red haired woman
+2278388,1.0,0.0,False,The Grand Budapest Hotel,2014,Adventure|Comedy|Crime|Drama,8.1,Wes Anderson,59073773.0,R,25000000.0,Bill Murray,first person narration|hotel|lobby boy|mentor protege relationship|painting
+1800246,3.0,1.0,True,That Awkward Moment,2014,Comedy|Romance,6.1,Tom Gormican,26049082.0,R,8000000.0,Mackenzie Davis,dating|divorce|father daughter relationship|mother daughter relationship|party
+1253863,1.0,0.0,False,300: Rise of an Empire,2014,Action|Drama|Fantasy|War,6.2,Noam Murro,106369117.0,R,110000000.0,Eva Green,army|commander|female rear nudity|greek|navy
+1840309,3.0,0.0,True,Divergent,2014,Adventure|Mystery|Sci-Fi,6.7,Neil Burger,150832203.0,PG-13,85000000.0,Kate Winslet,army|brother sister relationship|dystopia|father son relationship|narrated by character
+2357291,3.0,0.0,True,Rio 2,2014,Adventure|Animation|Comedy|Family|Musical,6.4,Carlos Saldanha,131536019.0,G,103000000.0,Miguel Ferrer,amazon|bird|father in law|jungle|no opening credits
+1959490,3.0,0.0,True,Noah,2014,Action|Adventure|Drama,5.8,Darren Aronofsky,101160529.0,PG-13,125000000.0,Anthony Hopkins,ark|flood|noah's ark|water|wrath of god
+1843866,3.0,0.0,True,Captain America: The Winter Soldier,2014,Action|Adventure|Sci-Fi,7.8,Anthony Russo,259746958.0,PG-13,170000000.0,Scarlett Johansson,conspiracy|heroism|megalomaniac|super soldier|world domination
+1647668,1.0,0.0,False,Million Dollar Arm,2014,Biography|Drama|Sport,7.0,Craig Gillespie,36447959.0,PG,25000000.0,Jon Hamm,baseball|based on true story|india|sports agent|training
+2382396,2.0,1.0,False,Joe,2013,Drama,6.9,David Gordon Green,371897.0,R,4000000.0,Nicolas Cage,alcoholic|cigarette smoking|father son relationship|teenage boy|woods
+2209764,1.0,0.0,False,Transcendence,2014,Drama|Mystery|Romance|Sci-Fi|Thriller,6.3,Wally Pfister,23014504.0,PG-13,100000000.0,Johnny Depp,artificial intelligence|consciousness|power outage|scientist|technology
+2388715,3.0,0.0,True,Oculus,2013,Horror|Mystery,6.5,Mike Flanagan,27689474.0,R,5000000.0,James Lafferty,home office|mirror|released from a mental hospital|trauma|video camera
+2203939,3.0,1.0,True,The Other Woman,2014,Comedy|Romance,6.0,Nick Cassavetes,83906114.0,PG-13,40000000.0,Don Johnson,beach house|blonde bombshell|cheating husband|revenge|wife meets mistress
+1872181,1.0,0.0,False,The Amazing Spider-Man 2,2014,Action|Adventure|Fantasy|Sci-Fi,6.7,Marc Webb,202853933.0,PG-13,200000000.0,Emma Stone,costumed hero|death of girlfriend|masked vigilante|returning character killed off|teenager
+2223990,2.0,0.0,False,Draft Day,2014,Drama|Sport,6.8,Ivan Reitman,28831145.0,R,25000000.0,Jennifer Garner,cleveland browns|head coach|linebacker|nfl|team owner
+1430612,3.0,1.0,True,Brick Mansions,2014,Action|Crime|Drama|Thriller,5.7,Camille Delamarre,20285518.0,PG-13,28000000.0,Paul Walker,bare chested male bondage|crime lord|die hard scenario|two word title|undercover
+2582846,3.0,0.0,True,The Fault in Our Stars,2014,Drama|Romance,7.8,Josh Boone,124868837.0,PG-13,12000000.0,Shailene Woodley,cancer|falling in love|friendship|novel|teenager
+2281587,1.0,0.0,False,Muppets Most Wanted,2014,Adventure|Comedy|Crime|Family|Musical,6.4,James Bobin,51178893.0,PG,50000000.0,Ty Burrell,europe|frog|gulag|prison break|puppet
+2004420,3.0,1.0,True,Neighbors,2014,Comedy,6.4,Nicholas Stoller,150056505.0,R,18000000.0,Craig Roberts,broken leg|friendship|jewish|topless female nudity|urination
+2199543,1.0,0.0,False,Futuro Beach,2014,Drama,6.1,Karim Aïnouz,20262.0,Unrated,4000000.0,Wagner Moura,gay|male frontal nudity|male nudity|male rear nudity|nudity
+1877832,1.0,0.0,False,X-Men: Days of Future Past,2014,Action|Adventure|Fantasy|Sci-Fi|Thriller,8.0,Bryan Singer,233914986.0,PG-13,200000000.0,Jennifer Lawrence,dystopia|super strength|supernatural power|time paradox|time travel
+1065073,3.0,0.0,True,Boyhood,2014,Drama,8.0,Richard Linklater,25359200.0,R,4000000.0,Ellar Coltrane,12 year time span|coming of age|domestic abuse|growing up|separated parents
+1587310,3.0,0.0,True,Maleficent,2014,Action|Adventure|Family|Fantasy|Romance,7.0,Robert Stromberg,241407328.0,PG,180000000.0,Angelina Jolie Pitt,curse|dark fantasy|fairy|king|kingdom
+2557490,2.0,0.0,False,A Million Ways to Die in the West,2014,Comedy|Western,6.1,Seth MacFarlane,42615685.0,R,40000000.0,Liam Neeson,dancing sheep|fetish|musical scene|racial humor|snake poison
+1631867,1.0,0.0,False,Edge of Tomorrow,2014,Action|Adventure|Sci-Fi,7.9,Doug Liman,100189501.0,PG-13,178000000.0,Tom Cruise,alien|combat|dying repeatedly|end of the world|time loop
+2109248,3.0,0.0,True,Transformers: Age of Extinction,2014,Action|Adventure|Sci-Fi,5.7,Michael Bay,245428137.0,PG-13,210000000.0,Bingbing Li,blockbuster|bumblebee the character|semi truck and trailer|texas|truck
+2103254,3.0,0.0,True,Tammy,2014,Comedy,4.9,Ben Falcone,84518155.0,R,20000000.0,Gary Cole,alcoholic|grandmother|highway travel|niagara falls|on the road
+1980929,3.0,0.0,True,Begin Again,2013,Drama|Music,7.4,John Carney,16168741.0,R,8000000.0,James Corden,manhattan new york city|new york city|record label|singer|song
+1646971,1.0,0.0,False,How to Train Your Dragon 2,2014,Action|Adventure|Animation|Comedy|Family|Fantasy,7.9,Dean DeBlois,176997107.0,PG,145000000.0,Gerard Butler,dragon|father son relationship|husband wife relationship|mother son relationship|viking
+2103281,1.0,0.0,False,Dawn of the Planet of the Apes,2014,Action|Adventure|Drama|Sci-Fi,7.6,Matt Reeves,208543795.0,PG-13,170000000.0,Gary Oldman,ape|dam|leader|post apocalypse|sequel
+1742334,3.0,0.0,True,Sabotage,2014,Action|Crime|Drama|Thriller,5.7,David Ayer,10499968.0,R,35000000.0,Mireille Enos,dea|drug cartel|kicked in the crotch|strip club|tough girl
+1742334,3.0,0.0,True,Sabotage,2014,Action|Crime|Drama|Thriller,5.7,David Ayer,10499968.0,R,35000000.0,Mireille Enos,dea|drug cartel|kicked in the crotch|strip club|tough girl
+2975578,3.0,0.0,True,The Purge: Anarchy,2014,Action|Horror|Sci-Fi|Thriller,6.5,James DeMonaco,71519230.0,R,9000000.0,Noel Gugliemi,held at gunpoint|machete|masked man|sequel|violence
+1742044,2.0,0.0,False,Jersey Boys,2014,Biography|Drama|Music|Musical,6.9,Clint Eastwood,47034272.0,R,40000000.0,Johnny Cannizzaro,band|music group|musical quartet|singer|song
+2872732,3.0,0.0,True,Lucy,2014,Action|Sci-Fi|Thriller,6.4,Luc Besson,126546825.0,R,40000000.0,Scarlett Johansson,brain capacity|drugs|fictional drug|one woman army|tough girl
+1267297,2.0,0.0,False,Hercules,2014,Action|Adventure,6.0,Brett Ratner,72660029.0,PG-13,100000000.0,Dwayne Johnson,army|greek mythology|hercules|king|mercenary
+1267297,2.0,0.0,False,Hercules,2014,Action|Adventure,6.0,Brett Ratner,72660029.0,PG-13,100000000.0,Dwayne Johnson,army|greek mythology|hercules|king|mercenary
+2294449,2.0,0.0,False,22 Jump Street,2014,Action|Comedy|Crime,7.1,Phil Lord,191616238.0,R,50000000.0,Channing Tatum,college|drugs|hidden camera|tattoo|undercover
+1086772,3.0,0.0,True,Blended,2014,Comedy|Romance,6.5,Frank Coraci,46280507.0,PG-13,40000000.0,Bella Thorne,blind date|children|date|daughter|son
+2015381,3.0,0.0,True,Guardians of the Galaxy,2014,Action|Adventure|Sci-Fi,8.1,James Gunn,333130696.0,PG-13,170000000.0,Bradley Cooper,bounty hunter|outer space|raccoon|talking animal|tree
+2106361,3.0,0.0,True,Into the Storm,2014,Action|Thriller,5.8,Steven Quale,47553512.0,PG-13,50000000.0,Matt Walsh,danger|graduation|storm|teenage boy|tornado
+1291150,3.0,0.0,True,Teenage Mutant Ninja Turtles,2014,Action|Adventure|Comedy|Sci-Fi,5.9,Jonathan Liebesman,190871240.0,PG-13,125000000.0,Noel Fisher,18 wheeler|mutant|ninja|sewer|turtle
+1291150,3.0,0.0,True,Teenage Mutant Ninja Turtles,2014,Action|Adventure|Comedy|Sci-Fi,5.9,Jonathan Liebesman,190871240.0,PG-13,125000000.0,Noel Fisher,18 wheeler|mutant|ninja|sewer|turtle
+2980648,3.0,0.0,True,The Hundred-Foot Journey,2014,Comedy|Drama,7.3,Lasse Hallström,54235441.0,PG,22000000.0,Manish Dayal,chef|haute cuisine|indian cuisine|michelin guide|restaurant
+2369135,1.0,0.0,False,Need for Speed,2014,Action|Crime|Drama|Thriller,6.5,Scott Waugh,43568507.0,PG-13,66000000.0,Rami Malek,cross country|custom car|illegal street racing|police officer crushed|street racing
+1924435,0.0,0.0,False,Let's Be Cops,2014,Comedy,6.5,Luke Greenfield,82389560.0,R,17000000.0,Rob Riggle,friendship between men|impersonating a police officer|mobster|party|police officer
+2333784,0.0,0.0,False,The Expendables 3,2014,Action|Adventure|Thriller,6.1,Patrick Hughes,39292022.0,PG-13,90000000.0,Jason Statham,battle|fight|mission|pg 13 sequel to r rated franchise|rescue
+2247476,1.0,0.0,False,When the Game Stands Tall,2014,Drama|Family|Sport,6.7,Thomas Carter,30127963.0,PG,15000000.0,Jessie T. Usher,coach|high school football
+1972571,2.0,0.0,False,A Most Wanted Man,2014,Crime|Drama|Thriller,6.8,Anton Corbijn,17237244.0,R,15000000.0,Philip Seymour Hoffman,intelligence|intelligence agency|secret service|surveillance camera|war on terror
+2473602,2.0,0.0,False,Get on Up,2014,Biography|Drama|Music,6.9,Tate Taylor,30513940.0,PG-13,30000000.0,Tika Sumpter,1970s|1980s|african american|breaking the fourth wall|mother son relationship
+1355630,3.0,0.0,True,If I Stay,2014,Drama|Fantasy|Music|Romance,6.8,R.J. Cutler,50461335.0,PG-13,11000000.0,Chloë Grace Moretz,car accident|coma|out of body experience|reference to the exploited|teenage girl
+2402157,1.0,0.0,False,The November Man,2014,Action|Crime|Thriller,6.3,Roger Donaldson,24984868.0,R,15000000.0,Luke Bracey,critically bashed|premarital sex|sex scene|sex standing up|stripper
+2870612,3.0,0.0,True,"As Above, So Below",2014,Horror|Mystery|Thriller,6.1,John Erick Dowdle,21197315.0,R,5000000.0,Ben Feldman,archeologist|catacomb|found footage|paris france|philosopher's stone
+3014666,3.0,0.0,True,Moms' Night Out,2014,Comedy,5.4,Andrew Erwin,10429707.0,PG,5000000.0,Alex Kendrick,blogger|pastor|reference to the shawshank redemption|taser|tasered
+2800038,3.0,0.0,True,Atlas Shrugged: Who Is John Galt?,2014,Drama|Mystery|Sci-Fi,4.4,James Manera,830210.0,PG-13,5000000.0,Joaquim de Almeida,box office flop|critically bashed|economy|individual versus society|rescue
+1790864,1.0,0.0,False,The Maze Runner,2014,Action|Mystery|Sci-Fi|Thriller,6.8,Wes Ball,102413606.0,PG-13,34000000.0,Ki Hong Lee,based on novel|concrete wall|maze|open ended|teenage boy
+2267998,3.0,0.0,True,Gone Girl,2014,Crime|Drama|Mystery|Thriller,8.1,David Fincher,167735396.0,R,61000000.0,Patrick Fugit,based on novel|disappearance|missing person|missing wife|murder suspect
+3322940,3.0,0.0,True,Annabelle,2014,Horror|Mystery,5.4,John R. Leonetti,84263837.0,R,6500000.0,Alfre Woodard,horror movie prequel|murder|paranormal activity|self sacrifice|suicide
+2870708,3.0,0.0,True,Wish I Was Here,2014,Comedy|Drama,6.7,Zach Braff,3588432.0,R,6000000.0,Jim Parsons,actor|dream sequence|genius recluse|jew|religion
+2011159,3.0,1.0,True,No Good Deed,2014,Crime|Thriller,5.6,Sam Miller,52543632.0,PG-13,13200000.0,Leslie Bibb,home invasion|police officer shot|police officer shot in the chest|psychopath|three word title
+3125324,3.0,0.0,True,Beyond the Lights,2014,Drama|Music,6.9,Gina Prince-Bythewood,14612840.0,PG-13,7000000.0,Minnie Driver,domestic abuse|public humiliation|sex symbol|singer|suicide attempt
+2582802,1.0,0.0,False,Whiplash,2014,Drama|Music,8.5,Damien Chazelle,13092000.0,R,3300000.0,J.K. Simmons,conservatory|drummer|emotional abuse|music school|obsession
+1872194,2.0,0.0,False,The Judge,2014,Crime|Drama,7.4,David Dobkin,47105085.0,R,50000000.0,Robert Downey Jr.,courtroom|dysfunctional family|indiana|lawyer|trial
+1698641,3.0,0.0,True,"Alexander and the Terrible, Horrible, No Good, Very Bad Day",2014,Comedy|Family,6.2,Miguel Arteta,66950483.0,PG,28000000.0,Bella Thorne,bad day|based on book|birthday|job interview|long title
+2262227,3.0,0.0,True,The Book of Life,2014,Adventure|Animation|Comedy|Family|Fantasy|Romance,7.3,Jorge R. Gutiérrez,50150619.0,PG,50000000.0,Channing Tatum,afterlife|bullfight|bullfighting|love triangle|mexico
+2713180,1.0,0.0,False,Fury,2014,Action|Drama|War,7.6,David Ayer,85707116.0,R,68000000.0,Brad Pitt,battle|battlefield|brutality|combat|tank
+2955096,3.0,0.0,True,Happy Christmas,2014,Comedy|Drama,5.6,Joe Swanberg,30084.0,R,70000.0,Anna Kendrick,chicago illinois|drink|drinking|filmmaker|writer
+2872718,3.0,0.0,True,Nightcrawler,2014,Crime|Drama|Thriller,7.9,Dan Gilroy,32279955.0,R,8500000.0,Jake Gyllenhaal,employer employee relationship|ethics|journalism|sociopath|tv news
+2788710,1.0,0.0,False,The Interview,2014,Comedy,6.6,Evan Goldberg,6105175.0,R,44000000.0,James Franco,assassination attempt|communist dictatorship|dictator|exploding helicopter|finger bitten off
+2245084,3.0,1.0,True,Big Hero 6,2014,Action|Adventure|Animation|Comedy|Drama|Family|Sci-Fi,7.9,Don Hall,222487711.0,PG,165000000.0,Damon Wayans Jr.,high tech|martial arts|masked man|robot|superhero
+2562232,3.0,0.0,True,Birdman or (The Unexpected Virtue of Ignorance),2014,Comedy|Drama|Romance,7.8,Alejandro G. Iñárritu,42335698.0,R,18000000.0,Emma Stone,actor|artist|broadway play|replacement|stage
+1791528,1.0,0.0,False,Inherent Vice,2014,Comedy|Crime|Drama|Mystery|Romance,6.7,Paul Thomas Anderson,8093318.0,R,20000000.0,Martin Dew,1960s|based on novel|ex boyfriend ex girlfriend relationship|southern california|voice over narration
+1951265,3.0,0.0,True,The Hunger Games: Mockingjay - Part 1,2014,Adventure|Sci-Fi|Thriller,6.7,Francis Lawrence,337103873.0,PG-13,125000000.0,Jennifer Lawrence,based on young adult novel|manipulation|rebellion|symbol|uprising
+2084970,2.0,0.0,False,The Imitation Game,2014,Biography|Drama|Thriller|War,8.1,Morten Tyldum,91121452.0,PG-13,14000000.0,Benedict Cumberbatch,crossword puzzle|cryptography|enigma code|gay lead character|world war two
+1911658,0.0,1.0,False,Penguins of Madagascar,2014,Adventure|Animation|Comedy|Family,6.7,Eric Darnell,83348920.0,PG,132000000.0,Benedict Cumberbatch,little girl|park|spy|statue of liberty|television van
+1020072,3.0,0.0,True,Selma,2014,Biography|Drama|History,7.5,Ava DuVernay,52066000.0,PG-13,20000000.0,David Oyelowo,civil rights|courage|protest|selma alabama|u.s. politics
+2180411,3.0,0.0,True,Into the Woods,2014,Adventure|Comedy|Drama|Fantasy|Musical,6.0,Rob Marshall,127997349.0,PG,50000000.0,Johnny Depp,based on stage musical|cinderella|little red riding hood|singing|witch
+2980516,3.0,1.0,True,The Theory of Everything,2014,Biography|Drama|Romance,7.7,James Marsh,35887263.0,PG-13,15000000.0,Eddie Redmayne,based on memoir|cambridge university|husband wife relationship|lou gehrig's disease|physicist
+2305051,3.0,0.0,True,Wild,2014,Adventure|Biography|Drama,7.1,Jean-Marc Vallée,37877959.0,R,15000000.0,Michiel Huisman,female protagonist|grief|hiking|loss of mother|mother daughter relationship
+1371150,2.0,0.0,False,This Is Where I Leave You,2014,Comedy|Drama,6.6,Shawn Levy,34290142.0,R,19800000.0,Tina Fey,brother sister relationship|childhood home|man child|sibling|vomiting
+1204977,3.0,0.0,True,Ouija,2014,Fantasy|Horror,4.4,Stiles White,50820940.0,PG-13,5000000.0,Lin Shaye,death of girlfriend|funeral|ghost|ouija|spirit
+2398231,1.0,0.0,False,The Homesman,2014,Drama|Western,6.6,Tommy Lee Jones,2428883.0,R,16000000.0,Barry Corbin,abusive marriage|pastor|prison wagon|roast pig|suicide by hanging
+2310332,1.0,0.0,False,The Hobbit: The Battle of the Five Armies,2014,Adventure|Fantasy,7.5,Peter Jackson,255108370.0,PG-13,250000000.0,Aidan Turner,army|elf|hobbit|middle earth|orc
+1109624,3.0,0.0,True,Paddington,2014,Animation|Comedy|Family|Fantasy,7.2,Paul King,76137505.0,PG,55000000.0,Julie Walters,bear|ear wax cleaning|fake newsreel|paddington station london|taxidermist
+1823664,3.0,1.0,True,Annie,2014,Comedy|Drama|Family|Musical,5.2,Will Gluck,85911262.0,PG,65000000.0,Quvenzhané Wallis,billionaire|business tycoon|mayoral candidate|penthouse|reference to star trek
+2473794,1.0,0.0,False,Mr. Turner,2014,Biography|Drama|History,6.8,Mike Leigh,3958500.0,R,8200000.0,Lesley Manville,prism|rented room|scrofula|sketching|sunrise
+2170593,3.0,0.0,True,St. Vincent,2014,Comedy|Drama,7.3,Theodore Melfi,44134898.0,PG-13,13000000.0,Bill Murray,bullying|grumpy old man|school presentation|stroke|stroke recovery
+1809398,0.0,0.0,False,Unbroken,2014,Biography|Drama|Sport|War,7.2,Angelina Jolie Pitt,115603980.0,PG-13,65000000.0,Finn Wittrock,emaciation|male nudity|plane crash|prisoner of war|torture
+1809398,0.0,0.0,False,Unbroken,2014,Biography|Drama|Sport|War,7.2,Angelina Jolie Pitt,115603980.0,PG-13,65000000.0,Finn Wittrock,emaciation|male nudity|plane crash|prisoner of war|torture
+1528100,2.0,0.0,False,Exodus: Gods and Kings,2014,Action|Adventure|Drama,6.1,Ridley Scott,65007045.0,PG-13,140000000.0,Christian Bale,egypt|exodus|moses|pharaoh|plague
+1528100,2.0,0.0,False,Exodus: Gods and Kings,2014,Action|Adventure|Drama,6.1,Ridley Scott,65007045.0,PG-13,140000000.0,Christian Bale,egypt|exodus|moses|pharaoh|plague
+2784678,3.0,0.0,True,Top Five,2014,Comedy|Romance,6.5,Chris Rock,25277561.0,R,12000000.0,Rosario Dawson,bare breasts|celebrity|in medias res|reference to planet of the apes|sex talk
+3316960,3.0,0.0,True,Still Alice,2014,Drama,7.5,Richard Glatzer,18656400.0,PG-13,5000000.0,Kristen Stewart,alzheimer's disease|bechdel test passed|linguistics professor|new york city|reference to angels in america the play
+2436386,3.0,0.0,True,Project Almanac,2015,Sci-Fi|Thriller,6.4,Dean Israelite,22331028.0,PG-13,12000000.0,Gary Weeks,found footage|teenager|time machine|time travel|video footage
+2937898,3.0,0.0,True,A Most Violent Year,2014,Action|Crime|Drama|Thriller,7.0,J.C. Chandor,5749134.0,R,20000000.0,David Oyelowo,american dream|immigrant|new york city|oil|violence
+2179136,1.0,0.0,False,American Sniper,2014,Action|Biography|Drama|History|Thriller|War,7.3,Clint Eastwood,350123553.0,R,58800000.0,Bradley Cooper,assassin|death of child|iraq|sniper|sniper rifle
+1126590,3.0,0.0,True,Big Eyes,2014,Biography|Crime|Drama|Romance,7.0,Tim Burton,14479776.0,PG-13,10000000.0,Christoph Waltz,1950s|abusive husband|artist|painting|secret
+1726592,3.0,0.0,True,Before I Go to Sleep,2014,Drama|Mystery|Thriller,6.3,Rowan Joffe,2963012.0,R,22000000.0,Colin Firth,amnesia|female nudity|infidelity|nudity|therapist
+1121096,3.0,0.0,True,Seventh Son,2014,Action|Adventure|Fantasy,5.5,Sergey Bodrov,17176900.0,PG-13,95000000.0,Jeff Bridges,apprentice|demon|exorcism|master apprentice relationship|witch
+2515030,2.0,0.0,False,Escobar: Paradise Lost,2014,Crime|Drama|Romance|Thriller,6.6,Andrea Di Stefano,106869.0,R,17000000.0,Josh Hutcherson,colombia|dream|love|surfer|village
+3713166,3.0,0.0,True,Unfriended,2014,Horror|Mystery|Thriller,5.7,Levan Gabriadze,31537320.0,R,1000000.0,Shelley Hennig,blender|computer screen|secret|skype|webcam
+3235888,3.0,0.0,True,It Follows,2014,Horror|Mystery,6.9,David Robert Mitchell,14673301.0,R,2000000.0,Maika Monroe,ambiguous ending|being followed|sex scene|supernatural|supernatural being
+2752688,1.0,0.0,False,Rosewater,2014,Biography|Drama,6.6,Jon Stewart,3093491.0,R,5000000.0,Numan Acar,based on true story|hijab|journalism|prison|reference to mahmoud ahmedinejad
+1791682,3.0,0.0,True,While We're Young,2014,Comedy|Drama,6.3,Noah Baumbach,7574066.0,R,10000000.0,Naomi Watts,documentary filmmaker|documentary filmmaking|father in law|generation z|hipster
+2170439,1.0,0.0,False,Horrible Bosses 2,2014,Comedy|Crime,6.3,Sean Anders,54414716.0,R,42000000.0,Kevin Spacey,kidnapping|reference to franz beckenbauer|scene during end credits|second part|singing in a car
+1929263,2.0,0.0,False,Heaven Is for Real,2014,Biography|Drama,5.8,Randall Wallace,91443253.0,PG,12000000.0,Jacob Vargas,based on true story|christ|christian|near death experience|pastor
+2096672,3.0,1.0,True,Dumb and Dumber To,2014,Comedy,5.7,Bobby Farrelly,86208010.0,PG-13,35000000.0,Bill Murray,adoption|highway travel|road trip|sequel|stupidity
+2978462,3.0,0.0,True,Dolphin Tale 2,2014,Drama|Family,6.4,Charles Martin Smith,42019483.0,PG,36000000.0,Morgan Freeman,dolphin|latex gloves|medical scrubs|purple gloves|turtle
+2692250,1.0,0.0,False,Night at the Museum: Secret of the Tomb,2014,Adventure|Comedy|Family|Fantasy,6.2,Shawn Levy,113733726.0,PG,127000000.0,Robin Williams,museum|museum of natural history manhattan new york city|night watchman|star died before release|tablet
+2183034,1.0,0.0,False,Earth to Echo,2014,Adventure|Family|Sci-Fi,5.8,Dave Green,38916903.0,PG,13000000.0,Teo Halm,alien|bar|construction worker|no opening credits|no title at beginning
+1826590,2.0,0.0,False,About Last Night,2014,Comedy|Romance,6.1,Steve Pink,48637684.0,R,12500000.0,Joe Lo Truglio,bedroom|boyfriend girlfriend relationship|hug|interrupted sex|urban setting
+2377322,2.0,0.0,False,Deliver Us from Evil,2014,Horror|Mystery|Thriller,6.2,Scott Derrickson,30523568.0,R,30000000.0,Olivia Munn,confession|demonic possession|exorcism|flickering light|priest
+2180411,3.0,1.0,True,Into the Woods,2014,Adventure|Comedy|Drama|Fantasy|Musical,6.0,Rob Marshall,127997349.0,PG,50000000.0,Johnny Depp,based on stage musical|cinderella|little red riding hood|singing|witch
+2446042,1.0,0.0,False,Taken 3,2014,Action|Thriller,6.0,Olivier Megaton,89253340.0,PG-13,48000000.0,Liam Neeson,betrayal|death|final showdown|murder|on the run
+2224026,3.0,0.0,True,Home,2015,Adventure|Animation|Comedy|Family|Fantasy|Sci-Fi,6.7,Tim Johnson,177343675.0,PG,135000000.0,Jim Parsons,alien friendship|alien invasion|australia|flying car|mother daughter relationship
+2224026,3.0,0.0,True,Home,2015,Adventure|Animation|Comedy|Family|Fantasy|Sci-Fi,6.7,Tim Johnson,177343675.0,PG,135000000.0,Jim Parsons,alien friendship|alien invasion|australia|flying car|mother daughter relationship
+2224026,3.0,0.0,True,Home,2015,Adventure|Animation|Comedy|Family|Fantasy|Sci-Fi,6.7,Tim Johnson,177343675.0,PG,135000000.0,Jim Parsons,alien friendship|alien invasion|australia|flying car|mother daughter relationship
+3045616,1.0,0.0,False,Mortdecai,2015,Action|Comedy|Mystery|Romance,5.5,David Koepp,7605668.0,R,60000000.0,Johnny Depp,art dealer|fake painting|macguffin|moustache|stolen painting
+1617661,3.0,0.0,True,Jupiter Ascending,2015,Action|Adventure|Sci-Fi,5.4,Lana Wachowski,47375327.0,PG-13,176000000.0,Channing Tatum,box office flop|critically bashed|planet earth|space opera|woman in bra and panties
+2279373,2.0,0.0,False,The SpongeBob Movie: Sponge Out of Water,2015,Adventure|Animation|Comedy|Family|Fantasy,6.0,Paul Tibbitt,162495848.0,PG,74000000.0,Tim Conway,book|magic|pirate|plankton|time machine
+2322441,3.0,0.0,True,Fifty Shades of Grey,2015,Drama|Romance,4.1,Sam Taylor-Johnson,166147885.0,R,40000000.0,Jennifer Ehle,female frontal nudity|female nudity|perversion|sex scene|spanking
+1666801,3.0,0.0,True,The DUFF,2015,Comedy,6.5,Ari Sandel,34017854.0,PG-13,8500000.0,Bella Thorne,cartoon on tv|generation y|high school|overalls|strong female character
+1823672,1.0,0.0,False,Chappie,2015,Action|Crime|Drama|Sci-Fi|Thriller,6.9,Neill Blomkamp,31569268.0,R,49000000.0,Hugh Jackman,artificial intelligence|consciousness|future|mind uploading|robot
+1661199,3.0,0.0,True,Cinderella,2015,Drama|Family|Fantasy|Romance,7.0,Kenneth Branagh,201148159.0,PG,95000000.0,Hayley Atwell,dress|duke|fairy godmother|fairy tale|pumpkin
+1661199,3.0,0.0,True,Cinderella,2015,Drama|Family|Fantasy|Romance,7.0,Kenneth Branagh,201148159.0,PG,95000000.0,Hayley Atwell,dress|duke|fairy godmother|fairy tale|pumpkin
+2908446,3.0,0.0,True,Insurgent,2015,Adventure|Sci-Fi|Thriller,6.3,Robert Schwentke,129995817.0,PG-13,110000000.0,Kate Winslet,action heroine|falling from height|mind control|trainhopping|truth serum
+2918436,3.0,0.0,True,The Lazarus Effect,2015,Horror|Sci-Fi|Thriller,5.2,David Gelb,25799043.0,PG-13,3300000.0,Olivia Wilde,electrocuted|experiment|hell|serum|university
+2820852,3.0,0.0,True,Furious 7,2015,Action|Crime|Thriller,7.2,James Wan,350034110.0,PG-13,190000000.0,Jason Statham,car falling off a cliff|hospital|revenge|star died before release|terrorist
+2395427,3.0,1.0,True,Avengers: Age of Ultron,2015,Action|Adventure|Sci-Fi,7.5,Joss Whedon,458991599.0,PG-13,250000000.0,Chris Hemsworth,artificial intelligence|based on comic book|captain america|marvel cinematic universe|superhero
+4056738,3.0,1.0,True,Do You Believe?,2015,Drama,5.9,Jon Gunn,12985267.0,PG-13,2300000.0,Alexa PenaVega,belief|faith|pastor|question in title|three word title
+2848292,3.0,0.0,True,Pitch Perfect 2,2015,Comedy|Music,6.5,Elizabeth Banks,183436380.0,PG-13,29000000.0,Anna Kendrick,2010s|a cappella|box office hit|second part|sequel
+1392190,3.0,0.0,True,Mad Max: Fury Road,2015,Action|Adventure|Sci-Fi|Thriller,8.1,George Miller,153629485.0,R,150000000.0,Tom Hardy,australia|desert|escape|on the run|post apocalypse
+2381941,1.0,0.0,False,Focus,2015,Comedy|Crime|Drama|Romance,6.6,Glenn Ficarra,53846915.0,R,50100000.0,Will Smith,con artist|con man|deception|rivalry|seduction
+2096673,3.0,0.0,True,Inside Out,2015,Adventure|Animation|Comedy|Drama|Family|Fantasy,8.3,Pete Docter,356454367.0,PG,175000000.0,Amy Poehler,anger|joy|memory|running away|sadness
+1964418,3.0,0.0,True,Tomorrowland,2015,Action|Adventure|Family|Mystery|Sci-Fi,6.5,Brad Bird,93417865.0,PG,190000000.0,Judy Greer,boy genius|futuristic city|inventor|teenage girl|time travel
+1655441,3.0,0.0,True,The Age of Adaline,2015,Drama|Fantasy|Romance,7.2,Lee Toland Krieger,42478175.0,PG-13,25000000.0,Harrison Ford,hit by a pickup truck|immortality|paramedic|resuscitation|san francisco california
+2126355,3.0,0.0,True,San Andreas,2015,Action|Adventure|Drama|Thriller,6.1,Brad Peyton,155181732.0,PG-13,110000000.0,Dwayne Johnson,disaster movie|earthquake|journey|natural disaster|san andreas fault
+2404425,3.0,0.0,True,Woman in Gold,2015,Biography|Drama|History,7.3,Simon Curtis,33305037.0,PG-13,11000000.0,Ryan Reynolds,art|jewish|justice|nazi|theft
+3195644,3.0,0.0,True,Insidious: Chapter 3,2015,Fantasy|Horror|Thriller,6.1,Leigh Whannell,52200504.0,PG-13,10000000.0,Lin Shaye,demon|possession|psychic|supernatural|teenager
+2199571,1.0,1.0,False,Run All Night,2015,Action|Crime|Drama|Thriller,6.6,Jaume Collet-Serra,26442251.0,R,50000000.0,Liam Neeson,death|drug dealer|limousine|limousine driver|one night
+2515034,1.0,0.0,False,The Gunman,2015,Action|Crime|Drama|Mystery|Thriller,5.8,Pierre Morel,10640645.0,R,40000000.0,Ray Winstone,assassination|blood vomiting|death|hit squad|mercenary
+2561572,1.0,0.0,False,Get Hard,2015,Comedy|Crime,6.0,Etan Cohen,90353764.0,R,40000000.0,Will Ferrell,camera focus on female butt|gay bar|millionaire|singing in a car|two word title
+2293640,3.0,0.0,True,Minions,2015,Action|Animation|Comedy|Family|Sci-Fi,6.4,Kyle Balda,336029560.0,PG,74000000.0,Steve Carell,antarctica|minion|queen|super villain|villain
+1340138,0.0,0.0,False,Terminator Genisys,2015,Action|Adventure|Sci-Fi,6.6,Alan Taylor,89732035.0,PG-13,155000000.0,J.K. Simmons,alternate timeline|cyborg|future|robot|time machine
+2637276,1.0,0.0,False,Ted 2,2015,Comedy,6.4,Seth MacFarlane,81257500.0,R,68000000.0,Liam Neeson,baby|f word|fight|lawyer|marriage
+1014763,2.0,0.0,False,Child 44,2015,Crime|Drama|Thriller,6.4,Daniel Espinosa,1206135.0,R,50000000.0,Tom Hardy,child murderer|murder|sex|soviet union|woman slaps a man
+3152624,3.0,0.0,True,Trainwreck,2015,Comedy|Romance,6.3,Judd Apatow,110008260.0,R,35000000.0,Amy Schumer,actress playing herself|actress shares first name with character|fired from a job|male nudity|written by star
+2555736,3.0,0.0,True,The Second Best Exotic Marigold Hotel,2015,Comedy|Drama,6.6,John Madden,33071558.0,PG,10000000.0,Tina Desai,sequel
+1798684,2.0,0.0,False,Southpaw,2015,Drama|Sport,7.5,Antoine Fuqua,52418902.0,R,30000000.0,Jake Gyllenhaal,boxer|boxing training|death of wife|male in shower|rage
+2120120,1.0,0.0,False,Pixels,2015,Action|Animation|Comedy|Sci-Fi,5.6,Chris Columbus,78747585.0,PG-13,88000000.0,Peter Dinklage,alien|arcade game|chase|driving in reverse|video gamer
+2268016,3.0,0.0,True,Magic Mike XXL,2015,Comedy|Drama|Music,5.7,Gregory Jacobs,66009973.0,R,14800000.0,Matt Bomer,male bonding|male friendship|male objectification|muscular|stripper
+3622592,2.0,0.0,False,Paper Towns,2015,Drama|Mystery|Romance,6.4,Jake Schreier,31990064.0,PG-13,12000000.0,Nat Wolff,based on novel|female neighbor|friendship|travel|trip
+2381249,0.0,0.0,False,Mission: Impossible - Rogue Nation,2015,Action|Adventure|Thriller,7.4,Christopher McQuarrie,195000874.0,PG-13,150000000.0,Tom Cruise,capture|computer hacker|mission|rogue agent|spy
+1502712,0.0,0.0,False,Fantastic Four,2015,Action|Adventure|Sci-Fi,4.3,Josh Trank,56114221.0,PG-13,120000000.0,Tim Blake Nelson,box office flop|critically bashed|portal|teleportation|troubled production
+1502712,0.0,0.0,False,Fantastic Four,2015,Action|Adventure|Sci-Fi,4.3,Josh Trank,56114221.0,PG-13,120000000.0,Tim Blake Nelson,box office flop|critically bashed|portal|teleportation|troubled production
+1638355,3.0,1.0,True,The Man from U.N.C.L.E.,2015,Action|Adventure|Comedy,7.3,Guy Ritchie,45434443.0,PG-13,75000000.0,Henry Cavill,box office flop|cia agent|criminal organization|kgb agent|nuclear bomb
+3742378,3.0,0.0,True,The Second Mother,2015,Comedy|Drama,7.9,Anna Muylaert,375723.0,R,4000000.0,Alex Huszar,brazil|exam|housekeeper|northeast region of brazil|portuguese language
+2140379,1.0,0.0,False,Self/less,2015,Action|Mystery|Sci-Fi|Thriller,6.5,Tarsem Singh,12276810.0,PG-13,26000000.0,Ryan Reynolds,cancer|elderly man|funeral|medical|transhumanism
+1754656,3.0,0.0,True,The Little Prince,2015,Adventure|Animation|Drama|Family|Fantasy,7.8,Mark Osborne,1339152.0,PG,81200000.0,Jeff Bridges,aviator|based on book|girl|little girl|the little prince
+1398426,1.0,0.0,False,Straight Outta Compton,2015,Biography|Crime|Drama|History|Music,7.9,F. Gary Gray,161029270.0,R,28000000.0,Aldis Hodge,concert|gangsta rap|hip hop|nwa|rap music
+4046784,3.0,0.0,True,The Scorch Trials,2015,Action|Sci-Fi|Thriller,6.4,Wes Ball,81687587.0,PG-13,61000000.0,Ki Hong Lee,desert|disease|escape|resistance|virus
+2510894,3.0,0.0,True,Hotel Transylvania 2,2015,Animation|Comedy|Family|Fantasy,6.7,Genndy Tartakovsky,169692572.0,PG,80000000.0,Steve Buscemi,california|dracula|hotel|transylvania|vampire
+3659388,3.0,0.0,True,The Martian,2015,Adventure|Drama|Sci-Fi,8.1,Ridley Scott,228430993.0,PG-13,108000000.0,Matt Damon,astronaut|international cooperation|left for dead|nasa|space habitat
+1243974,3.0,0.0,True,Aloha,2015,Comedy|Drama|Romance,5.4,Cameron Crowe,20991497.0,PG-13,37000000.0,Emma Stone,box office flop|critically bashed|hawaii|one word title|written by director
+1243974,3.0,0.0,True,Aloha,2015,Comedy|Drama|Romance,5.4,Cameron Crowe,20991497.0,PG-13,37000000.0,Emma Stone,box office flop|critically bashed|hawaii|one word title|written by director
+3397884,0.0,0.0,False,Sicario,2015,Action|Crime|Drama|Mystery|Thriller,7.6,Denis Villeneuve,46875468.0,R,30000000.0,Edgar Arreola,critically acclaimed|drug cartel|juarez mexico|u.s. mexico border|war on drugs
+2403021,3.0,0.0,True,The Green Inferno,2013,Adventure|Horror,5.4,Eli Roth,7186670.0,R,6000000.0,Daryl Sabara,activist|amazon|color in title|rain|rain forest
+3850214,1.0,0.0,False,Dope,2015,Comedy|Crime|Drama,7.3,Rick Famuyiwa,17474107.0,R,7000000.0,Kimberly Elise,african american|geek|hip hop|party|tomboy
+1355683,1.0,0.0,False,Black Mass,2015,Biography|Crime|Drama,7.0,Scott Cooper,62563543.0,R,53000000.0,Johnny Depp,based on true story|boston massachusetts|fbi agent|gangster|true crime
+3682448,1.0,0.0,False,Bridge of Spies,2015,Drama|History|Thriller,7.6,Steven Spielberg,72306065.0,PG-13,40000000.0,Tom Hanks,cia|cold war|lawyer|negotiation|spy
+2080374,3.0,0.0,True,Steve Jobs,2015,Biography|Drama,7.2,Danny Boyle,17750583.0,R,30000000.0,Kate Winslet,apple computer|box office flop|computer|dialogue driven|father daughter relationship
+1051904,2.0,0.0,False,Goosebumps,2015,Adventure|Comedy|Family|Fantasy|Horror,6.4,Rob Letterman,80021740.0,PG,58000000.0,Odeya Rush,based on book|blob|ferris wheel|manuscript|monster
+1051904,2.0,0.0,False,Goosebumps,2015,Adventure|Comedy|Family|Fantasy|Horror,6.4,Rob Letterman,80021740.0,PG,58000000.0,Odeya Rush,based on book|blob|ferris wheel|manuscript|monster
+3488710,1.0,1.0,False,The Walk,2015,Adventure|Biography|Drama|Thriller,7.4,Robert Zemeckis,10137502.0,PG,35000000.0,Joseph Gordon-Levitt,1970s|based on true story|new york city|skyscraper|tightrope walker
+2379713,1.0,0.0,False,Spectre,2015,Action|Adventure|Thriller,6.8,Sam Mendes,200074175.0,PG-13,245000000.0,Christoph Waltz,bomb|espionage|sequel|spy|terrorist
+2452042,3.0,0.0,True,The Peanuts Movie,2015,Adventure|Animation|Comedy|Family,7.2,Steve Martino,130174897.0,G,99000000.0,Francesca Capaldi,dog|girl|imagination|peanuts|red hair
+2381111,3.0,0.0,True,Brooklyn,2015,Drama|Romance,7.5,John Crowley,38317535.0,PG-13,11000000.0,Julie Walters,1950s|immigrant|irish|irish accent|torn between two worlds
+1976009,0.0,0.0,False,Victor Frankenstein,2015,Drama|Horror|Sci-Fi|Thriller,6.0,Paul McGuigan,5773519.0,PG-13,40000000.0,Daniel Radcliffe,assistant|experiment|frankenstein|medical student|scientist
+1976009,0.0,0.0,False,Victor Frankenstein,2015,Drama|Horror|Sci-Fi|Thriller,6.0,Paul McGuigan,5773519.0,PG-13,40000000.0,Daniel Radcliffe,assistant|experiment|frankenstein|medical student|scientist
+1976009,0.0,0.0,False,Victor Frankenstein,2015,Drama|Horror|Sci-Fi|Thriller,6.0,Paul McGuigan,5773519.0,PG-13,40000000.0,Daniel Radcliffe,assistant|experiment|frankenstein|medical student|scientist
+1951266,3.0,0.0,True,The Hunger Games: Mockingjay - Part 2,2015,Adventure|Sci-Fi,6.6,Francis Lawrence,281666058.0,PG-13,160000000.0,Jennifer Lawrence,death of sister|dystopia|execution|rebellion|revolution
+1663202,0.0,0.0,False,The Revenant,2015,Adventure|Drama|Thriller|Western,8.1,Alejandro G. Iñárritu,183635922.0,R,135000000.0,Leonardo DiCaprio,bear attack|cauterizing a wound|native american|revenge|survival
+2717822,1.0,0.0,False,Blackhat,2015,Action|Crime|Drama|Mystery|Thriller,5.4,Michael Mann,7097125.0,R,70000000.0,Chris Hemsworth,chinese|computer|cybercrime|hacker|one word title
+3170832,3.0,0.0,True,Room,2015,Drama,8.3,Lenny Abrahamson,14677654.0,R,13000000.0,Joan Allen,based on novel|escape|imprisonment|kidnapping|mother son relationship
+1658801,3.0,0.0,True,Freeheld,2015,Biography|Drama|Romance,6.5,Peter Sollett,532988.0,PG-13,7000000.0,Steve Carell,cancer|gay bar|lesbian kiss|partner|public hearing
+3076658,2.0,1.0,False,Creed,2015,Drama|Sport,7.7,Ryan Coogler,109712885.0,PG-13,35000000.0,Sylvester Stallone,boxing|boxing match|fight|montage|philadelphia
+1390411,1.0,0.0,False,In the Heart of the Sea,2015,Action|Adventure|Biography|Drama|History|Thriller,7.0,Ron Howard,24985612.0,PG-13,100000000.0,Chris Hemsworth,emaciation|ship|starvation|vomiting|whale
+2279339,3.0,0.0,True,Love the Coopers,2015,Comedy,5.7,Jessie Nelson,26284475.0,PG-13,17000000.0,Olivia Wilde,christmas|family dinner|husband wife conflict|husband wife kiss|large family
+1524930,3.0,0.0,True,Vacation,2015,Adventure|Comedy,6.1,John Francis Daley,58879132.0,R,31000000.0,Chris Hemsworth,amusement park|dysfunctional family|road trip|sequel|vacation
+3850590,3.0,0.0,True,Krampus,2015,Comedy|Fantasy|Horror,6.2,Michael Dougherty,42592530.0,PG-13,15000000.0,Adam Scott,christmas|german|holiday|krampus|santa claus
+3332064,1.0,0.0,False,Pan,2015,Adventure|Family|Fantasy,5.8,Joe Wright,34964818.0,PG,150000000.0,Hugh Jackman,1940s|child hero|fantasy world|orphan|reference to peter pan
+3332064,1.0,0.0,False,Pan,2015,Adventure|Family|Fantasy,5.8,Joe Wright,34964818.0,PG,150000000.0,Hugh Jackman,1940s|child hero|fantasy world|orphan|reference to peter pan
+3332064,1.0,0.0,False,Pan,2015,Adventure|Family|Fantasy,5.8,Joe Wright,34964818.0,PG,150000000.0,Hugh Jackman,1940s|child hero|fantasy world|orphan|reference to peter pan
+3707106,3.0,0.0,True,By the Sea,2015,Drama|Romance,5.3,Angelina Jolie Pitt,531009.0,R,10000000.0,Brad Pitt,cheating wife|cigarette smoking|male in shower|male nudity|male rear nudity
+3460252,3.0,1.0,True,The Hateful Eight,2015,Crime|Drama|Mystery|Thriller|Western,7.9,Quentin Tarantino,54116191.0,R,44000000.0,Craig Stark,blizzard|blood vomiting|bounty hunter|murder|shot in the crotch
+2058673,0.0,0.0,False,Point Break,2015,Action|Crime|Sport|Thriller,5.3,Ericson Core,28772222.0,PG-13,105000000.0,Ray Winstone,athlete|extreme sports|fbi|fbi agent|heist
+2058673,0.0,0.0,False,Point Break,2015,Action|Crime|Sport|Thriller,5.3,Ericson Core,28772222.0,PG-13,105000000.0,Ray Winstone,athlete|extreme sports|fbi|fbi agent|heist
+3322364,1.0,0.0,False,Concussion,2015,Biography|Drama|Sport,7.1,Peter Landesman,34531832.0,PG-13,35000000.0,Will Smith,chronic traumatic encephalopathy|concussion|football|football player|pathologist
+2446980,3.0,0.0,True,Joy,2015,Biography|Comedy|Drama,6.6,David O. Russell,56443482.0,PG-13,60000000.0,Jennifer Lawrence,based on real person|female inventor|mop|sales pitch|woman holding a shotgun
+2361509,3.0,1.0,True,The Intern,2015,Comedy|Drama,7.2,Nancy Meyers,75274748.0,PG-13,35000000.0,Robert De Niro,reference to ben affleck|reference to brad pitt|reference to george clooney|reference to jack nicholson|website
+3268668,3.0,0.0,True,Captive,2015,Crime|Drama|Thriller,5.3,Jerry Jameson,2557668.0,PG-13,2000000.0,David Oyelowo,auto theft|based on true story|drug addict|kidnapping|violence
+1596363,1.0,0.0,False,The Big Short,2015,Biography|Comedy|Drama|History,7.8,Adam McKay,70235322.0,R,28000000.0,Ryan Gosling,bank|banking|finance|fraud|mortgage
+1528854,1.0,0.0,False,Daddy's Home,2015,Comedy|Family,6.1,Sean Anders,150315155.0,PG-13,50000000.0,Will Ferrell,biological father|dad|drinking|product placement|wilhelm scream
+3569230,3.0,1.0,True,Legend,2015,Biography|Crime|Drama|History|Thriller,7.0,Brian Helgeland,1865774.0,R,30000000.0,Tom Hardy,1960s|based on a true story|gangster|identical twins|murder
+2401878,2.0,0.0,False,Anomalisa,2015,Animation|Comedy|Drama|Romance,7.3,Duke Johnson,3442820.0,R,8000000.0,Jennifer Jason Leigh,full frontal male nudity|hotel room|multiple characters voiced by same person|one night stand|sex in hotel room
+2938956,3.0,1.0,True,The Transporter Refueled,2015,Action|Crime|Thriller,5.1,Camille Delamarre,16027866.0,PG-13,25000000.0,Ed Skrein,airfield|car|car stunt|driver|private jet
+1618442,3.0,1.0,True,The Last Witch Hunter,2015,Action|Adventure|Fantasy,6.0,Breck Eisner,27356090.0,PG-13,90000000.0,Vin Diesel,box office flop|burned to death|magic|witch|witch hunter
+1895587,1.0,0.0,False,Spotlight,2015,Biography|Crime|Drama|History,8.1,Tom McCarthy,44988180.0,R,20000000.0,Billy Crudup,cover up|investigation|journalist|newspaper|sexual abuse
+3172532,3.0,0.0,True,The Diary of a Teenage Girl,2015,Drama|Romance,6.9,Marielle Heller,1477002.0,R,2000000.0,Alexander Skarsgård,1970s|mother's boyfriend|overalls|phone booth|sexual promiscuity
+4263482,3.0,0.0,True,The Witch,2015,Horror|Mystery,6.8,Robert Eggers,25138292.0,R,3500000.0,Julian Richings,black magic|goat|isolation|naked woman|witch
+2726560,3.0,0.0,True,The Longest Ride,2015,Drama|Romance,7.1,George Tillman Jr.,37432299.0,PG-13,34000000.0,Tiago Riani,1940s|art collector|bull riding|north carolina|student
+4062536,3.0,0.0,True,Green Room,2015,Crime|Horror|Music|Thriller,7.1,Jeremy Saulnier,3219029.0,R,5000000.0,Alia Shawkat,murder|neo nazi|punk band|skinhead|suspense
+2719848,2.0,0.0,False,Everest,2015,Adventure|Biography|Drama|History|Sport|Thriller,7.1,Baltasar Kormákur,43247140.0,PG-13,55000000.0,Michael Kelly,blizzard|mount everest|mountain|mountain climbing|snow
+3369806,3.0,0.0,True,Max,2015,Adventure|Family,6.8,Boaz Yakin,42652003.0,PG,20000000.0,Jay Hernandez,afghanistan|death of marine|dog|dog adoption|man dog relationship
+3567288,3.0,0.0,True,The Visit,2015,Horror|Thriller,6.2,M. Night Shyamalan,65069140.0,PG-13,5000000.0,Ocean James,farm|handheld camera|impostor|rap|rock paper scissors
+2006295,3.0,1.0,True,The 33,2015,Biography|Drama|History,6.9,Patricia Riggen,12188642.0,PG-13,26000000.0,Marco Treviño,disaster movie|mine|minister|president|trapped in a mine
+2967224,2.0,1.0,False,Hot Pursuit,2015,Action|Comedy|Crime,5.1,Anne Fletcher,34507079.0,PG-13,35000000.0,Jim Gaffigan,danger|drug cartel|female cop|female police officer|fugitive
+2358925,2.0,0.0,False,Unfinished Business,2015,Comedy,5.4,Ken Scott,10214013.0,R,35000000.0,Tom Wilkinson,business trip|company|glory hole|male frontal nudity|male nudity
+4178092,3.0,0.0,True,The Gift,2015,Mystery|Thriller,7.1,Joel Edgerton,43771291.0,R,5000000.0,Busy Philipps,compulsive liar|fired from a job|gift|rape|substance abuse
+4178092,3.0,0.0,True,The Gift,2015,Mystery|Thriller,7.1,Joel Edgerton,43771291.0,R,5000000.0,Busy Philipps,compulsive liar|fired from a job|gift|rape|substance abuse
+2974918,1.0,0.0,False,Alvin and the Chipmunks: The Road Chip,2015,Adventure|Animation|Comedy|Family|Fantasy|Music,5.0,Walt Becker,85884815.0,PG,90000000.0,Bella Thorne,chipmunk|highway travel|on the road|plane|road movie
+3450650,1.0,0.0,False,Paul Blart: Mall Cop 2,2015,Action|Comedy|Crime,4.4,Andy Fickman,71038190.0,PG,30000000.0,D.B. Woodside,character name in title|no opening credits|sequel|wilhelm scream
+2888046,1.0,0.0,False,Ip Man 3,2015,Action|Biography|Drama|History,7.2,Wilson Yip,2126511.0,PG-13,36000000.0,Mike Tyson,1950s|cancer|hong kong|martial arts school|wing chun
+3508840,2.0,1.0,False,The Assassin,2015,Action|Drama,6.4,Hsiao-Hsien Hou,613556.0,Not Rated,15000000.0,Qi Shu,black magic|china|love|refusal to kill|wuxia
+2140037,0.0,0.0,False,Jane Got a Gun,2016,Action|Drama|Western,5.8,Gavin O'Connor,1512815.0,R,25000000.0,Natalie Portman,brothel|death of husband|ex lover|haunted by the past|redemption
+2304933,2.0,0.0,False,The 5th Wave,2016,Action|Adventure|Sci-Fi|Thriller,5.2,J Blakeson,34912982.0,PG-13,38000000.0,Chloë Grace Moretz,alien|attack|based on novel|based on young adult novel|fear
+1374989,3.0,0.0,True,Pride and Prejudice and Zombies,2016,Action|Horror|Romance,5.8,Burr Steers,10907291.0,PG-13,28000000.0,Matt Smith,based on novel|damsel in distress|deception|england|zombie
+1431045,1.0,0.0,False,Deadpool,2016,Action|Adventure|Comedy|Romance|Sci-Fi,8.1,Tim Miller,363024263.0,R,58000000.0,Ryan Reynolds,based on comic book|breaking the fourth wall|mercenary|mutant|self healing
+3882082,3.0,0.0,True,The Boy,2016,Horror|Mystery|Thriller,6.0,William Brent Bell,35794166.0,PG-13,10000000.0,Lauren Cohan,animate doll|doll|england|nanny|surprise ending
+3410834,3.0,0.0,True,Allegiant,2016,Action|Adventure|Mystery|Sci-Fi|Thriller,5.8,Robert Schwentke,66002193.0,PG-13,110000000.0,Naomi Watts,based on young adult novel|dystopia|genetic experimentation|strong female character|strong female lead
+1179933,3.0,0.0,True,10 Cloverfield Lane,2016,Drama|Horror|Mystery|Sci-Fi|Thriller,7.3,Dan Trachtenberg,71897215.0,PG-13,15000000.0,Bradley Cooper,alien|bunker|car crash|kidnapping|minimal cast
+1712261,3.0,0.0,True,Triple 9,2016,Action|Crime|Drama|Thriller,6.3,John Hillcoat,12626905.0,R,20000000.0,Kate Winslet,betrayal|corrupt cop|heist|murder of a police officer|police detective
+2649554,1.0,0.0,False,Midnight Special,2016,Adventure|Drama|Sci-Fi|Thriller,6.7,Jeff Nichols,3707794.0,PG-13,18000000.0,Kirsten Dunst,cult|father son relationship|gas station|on the run|supernatural ability
+2975590,2.0,0.0,False,Batman v Superman: Dawn of Justice,2016,Action|Adventure|Sci-Fi,6.9,Zack Snyder,330249062.0,PG-13,250000000.0,Henry Cavill,based on comic book|batman|sequel to a reboot|superhero|superman
+2381991,3.0,0.0,True,The Huntsman: Winter's War,2016,Action|Adventure|Drama|Fantasy,6.1,Cedric Nicolas-Troyan,47952020.0,PG-13,115000000.0,Chris Hemsworth,based on fairy tale|dark fantasy|fairy tale|second part|sequel
+2267968,3.0,0.0,True,Kung Fu Panda 3,2016,Action|Adventure|Animation|Comedy|Family,7.2,Alessandro Carloni,143523463.0,PG,145000000.0,J.K. Simmons,china|kung fu|panda|pig|village
+2702724,3.0,0.0,True,The Boss,2016,Comedy,5.3,Ben Falcone,63034755.0,R,29000000.0,Peter Dinklage,business|girl scouts|orphanage|overweight woman|quitting a job
+3040964,2.0,0.0,False,The Jungle Book,2016,Adventure|Drama|Family|Fantasy,7.8,Jon Favreau,362645141.0,PG,175000000.0,Scarlett Johansson,fire|jungle|remake|tiger|wolf
+3040964,2.0,0.0,False,The Jungle Book,2016,Adventure|Drama|Family|Fantasy,7.8,Jon Favreau,362645141.0,PG,175000000.0,Scarlett Johansson,fire|jungle|remake|tiger|wolf
+3387542,3.0,0.0,True,The Forest,2016,Horror|Mystery|Thriller,4.8,Jason Zada,26583369.0,PG-13,10000000.0,Eoin Macken,forest|japan|suicide|suicide forest|supernatural
+3498820,3.0,0.0,True,Captain America: Civil War,2016,Action|Adventure|Sci-Fi,8.2,Anthony Russo,407197282.0,PG-13,250000000.0,Robert Downey Jr.,based on comic book|knife|marvel cinematic universe|returning character killed off|superhero
+4139124,3.0,1.0,True,Keanu,2016,Action|Comedy,6.4,Peter Atencio,20566327.0,R,15000000.0,Nia Long,car chase|gangsta|gun fight|hitman|kitten
+3385516,3.0,0.0,True,X-Men: Apocalypse,2016,Action|Adventure|Sci-Fi,7.3,Bryan Singer,154985087.0,PG-13,178000000.0,Jennifer Lawrence,mutant|superhero|superhero team|x men|year 1983
+2567026,3.0,0.0,True,Alice Through the Looking Glass,2016,Adventure|Family|Fantasy,6.4,James Bobin,76846624.0,PG,170000000.0,Johnny Depp,clock|dark fantasy|mad hatter|queen|sequel
+4438848,3.0,0.0,True,Neighbors 2: Sorority Rising,2016,Comedy,6.0,Nicholas Stoller,55291815.0,R,35000000.0,Chloë Grace Moretz,bare chested male|gay|gay best friend|gay man|gay marriage proposal
+3949660,3.0,1.0,True,Teenage Mutant Ninja Turtles: Out of the Shadows,2016,Action|Adventure|Comedy|Sci-Fi,6.3,Dave Green,81638674.0,PG-13,135000000.0,Stephen Amell,based on comic book|brother brother relationship|rat|sequel|turtle
+1292566,3.0,0.0,True,How to Be Single,2016,Comedy|Romance,6.1,Christian Ditter,46813366.0,R,38000000.0,Alison Brie,motor scooter|new york city|newborn baby|scooter|single
+2404233,2.0,1.0,False,Gods of Egypt,2016,Action|Adventure|Fantasy,5.5,Alex Proyas,31141074.0,PG-13,140000000.0,Gerard Butler,ancient egypt|egypt|egyptian|egyptian god|egyptian goddess
+3110958,1.0,0.0,False,Now You See Me 2,2016,Action|Adventure|Comedy|Crime|Mystery|Thriller,6.9,Jon M. Chu,64685359.0,PG-13,90000000.0,Daniel Radcliffe,card trick|london england|magician|rain machine|rooftop
+2674426,3.0,0.0,True,Me Before You,2016,Drama|Romance,7.6,Thea Sharrock,56154094.0,PG-13,20000000.0,Sam Claflin,accident|caretaker|economic hardship|quadriplegic|wheelchair
+2241351,3.0,0.0,True,Money Monster,2016,Crime|Drama|Thriller,6.7,Jodie Foster,41008532.0,R,27000000.0,Julia Roberts,death|hostage|money|shot in the chest|shot in the heart
+3065204,3.0,0.0,True,The Conjuring 2,2016,Horror|Mystery|Thriller,7.8,James Wan,102310175.0,R,40000000.0,Javier Botet,based on supposedly true story|house|paranormal investigating|psychic|second part
+1628841,3.0,0.0,True,Independence Day: Resurgence,2016,Action|Adventure|Sci-Fi,5.5,Roland Emmerich,102315545.0,PG-13,165000000.0,Vivica A. Fox,alien|battle|defense|independence day|mothership
+1974419,3.0,0.0,True,The Neon Demon,2016,Horror|Thriller,7.0,Nicolas Winding Refn,1330827.0,R,7000000.0,Keanu Reeves,beauty|cannibalism|fashion|lesbian|model
+4052882,3.0,0.0,True,The Shallows,2016,Drama|Horror|Thriller,6.8,Jaume Collet-Serra,54257433.0,PG-13,17000000.0,Óscar Jaenada,beach|island|mexico|prey|trapped
+4094724,3.0,0.0,True,The Purge: Election Year,2016,Action|Horror|Sci-Fi|Thriller,6.1,James DeMonaco,78845130.0,R,10000000.0,Frank Grillo,cathedral|minister|presidential election|reference to george washington|ritual sacrifice
+2709768,2.0,0.0,False,The Secret Life of Pets,2016,Animation|Comedy|Family,6.8,Yarrow Cheney,323505540.0,PG,75000000.0,Steve Coogan,animal control|lost animal|mongrel|pet|terrier
+3691740,3.0,0.0,True,The BFG,2016,Adventure|Family|Fantasy,6.8,Steven Spielberg,52792307.0,PG,140000000.0,Mark Rylance,cannibal|evil brother|giant|london england|queen
+1289401,3.0,0.0,True,Ghostbusters,2016,Action|Comedy|Fantasy|Sci-Fi,5.5,Paul Feig,118099659.0,PG-13,144000000.0,Ed Begley Jr.,ghost|ghostbuster|ghostbusters|male objectification|reboot
+1289401,3.0,0.0,True,Ghostbusters,2016,Action|Comedy|Fantasy|Sci-Fi,5.5,Paul Feig,118099659.0,PG-13,144000000.0,Ed Begley Jr.,ghost|ghostbuster|ghostbusters|male objectification|reboot
+3014866,3.0,1.0,True,Criminal,2016,Action|Crime|Drama|Mystery|Sci-Fi|Thriller,6.3,Ariel Vromen,14268533.0,R,31500000.0,Gary Oldman,cia|husband wife relationship|memory|tied up while barefoot|violence
+2660888,1.0,0.0,False,Star Trek Beyond,2016,Action|Adventure|Sci-Fi|Thriller,7.5,Justin Lin,130468626.0,PG-13,185000000.0,Sofia Boutella,hatred|sequel|space opera|star trek|third part
+4172430,2.0,0.0,False,13 Hours,2016,Action|Drama|Thriller|War,7.4,Michael Bay,52822418.0,R,50000000.0,Toby Stephens,based on true story|cia agent|libya|mercenary|u.s. ambassador
+1083452,2.0,0.0,False,Eddie the Eagle,2016,Biography|Comedy|Drama|Sport,7.5,Dexter Fletcher,15785632.0,PG-13,23000000.0,Hugh Jackman,1988 winter olympics|coach|ski jumper|winter|winter olympics
+1083452,2.0,0.0,False,Eddie the Eagle,2016,Biography|Comedy|Drama|Sport,7.5,Dexter Fletcher,15785632.0,PG-13,23000000.0,Hugh Jackman,1988 winter olympics|coach|ski jumper|winter|winter olympics
+3531824,3.0,0.0,True,Nerve,2016,Adventure|Crime|Mystery|Sci-Fi|Thriller,7.1,Henry Joost,28876924.0,PG-13,20000000.0,Samira Wiley,dare|game|knocked out|motorcycle|online game
+1386697,3.0,0.0,True,Suicide Squad,2016,Action|Adventure|Comedy|Sci-Fi,6.9,David Ayer,161087183.0,PG-13,175000000.0,Will Smith,based on comic book|critically bashed|father daughter relationship|reference to superman|super villain
+4651520,3.0,0.0,True,Bad Moms,2016,Comedy,6.7,Jon Lucas,55461307.0,R,20000000.0,Mila Kunis,lesbian kiss|mom|pta|reference to mad max|scene during end credits
+4651520,3.0,0.0,True,Bad Moms,2016,Comedy,6.7,Jon Lucas,55461307.0,R,20000000.0,Mila Kunis,lesbian kiss|mom|pta|reference to mad max|scene during end credits
+4786282,3.0,0.0,True,Lights Out,2016,Horror,6.9,David F. Sandberg,56536016.0,PG-13,4900000.0,Billy Burke,based on short film|reference to avenged sevenfold|reference to slayer|switching lights on and off|two word title
+4196776,1.0,0.0,False,Jason Bourne,2016,Action|Thriller,7.1,Paul Greengrass,108521835.0,PG-13,120000000.0,Matt Damon,black ops|chase|cia|cia agent|repeated scene
+2869728,0.0,0.0,False,Ride Along 2,2016,Action|Comedy,5.9,Tim Story,90835030.0,PG-13,40000000.0,Olivia Munn,computer hacker|crime boss|detective|drugs|wedding
+1489889,2.0,0.0,False,Central Intelligence,2016,Action|Comedy|Crime,6.6,Rawson Marshall Thurber,126088877.0,PG-13,50000000.0,Dwayne Johnson,accountant|blooper|espionage|facebook|high school reunion
+1124037,2.0,0.0,False,Free State of Jones,2016,Action|Biography|Drama|History|War,6.7,Gary Ross,20389967.0,R,50000000.0,Matthew McConaughey,american civil war|civil war|u.s. civil war
+3760922,3.0,0.0,True,My Big Fat Greek Wedding 2,2016,Comedy|Family|Romance,6.1,Kirk Jones,59573085.0,PG-13,18000000.0,Nia Vardalos,family restaurant|greek|remarriage|suburb|wedding
+1985949,1.0,0.0,False,The Angry Birds Movie,2016,Action|Animation|Comedy|Family,6.3,Clay Kaytis,107225164.0,PG,73000000.0,Peter Dinklage,butt|downward duck|fish|kingfisher|pig
+1860213,2.0,0.0,False,Dirty Grandpa,2016,Comedy,6.0,Dan Mazer,35537564.0,R,11500000.0,Robert De Niro,female removes her clothes|fondling|voyeur|voyeurism|white panties
